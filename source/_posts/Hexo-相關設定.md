@@ -1,10 +1,11 @@
 ---
-title: Hexo 相關設定
+title: Hexo 基本設定(安裝與共用)
 date: 2021-05-29 00:47:11
-tags:
+tags: Insatll and Setting
+categories: Blog Setting
 ---
 
-# Hexo相關操作
+# Hexo 基本設定(安裝與共用)
 記錄下如何自己架設hexo blog 
 ## 建立Blog
 
@@ -57,6 +58,8 @@ tags:
     * 從別人的github下載主題後,經過自己的更改後要pull到github上,需要先到themes/[主題名稱]下的.git刪除(因為在有.git的資料夾下, 不能包含.git的資料夾),才能成功pull themes到github上
 
 ## 不同電腦下同步修改hexo部落格
+[[教學] 使用 GitHub Pages + Hexo 來架設個人部落格](https://ed521.github.io/2019/07/hexo-install/)
+[如何在不同电脑上同时写hexo博客？](https://chown-jane-y.github.io/2017/03/15/%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%94%B5%E8%84%91%E4%B8%8A%E5%90%8C%E6%97%B6%E5%86%99hexo%E5%8D%9A%E5%AE%A2%EF%BC%9F/)
 ### 原本電腦操作
 1. 在github下先刪除master裡面的資料, 然後創建一個叫hexo的branch(用於更新最新blog), 並把它變成default
 2. 在本地也創建hexo branch `git branch hexo`
@@ -79,8 +82,6 @@ tags:
     git commit -m "你想留的資訊"
     git push origin hexo
     ```
+## Blog功能
 
-## Reference
-[[教學] 使用 GitHub Pages + Hexo 來架設個人部落格](https://ed521.github.io/2019/07/hexo-install/)
-[如何在不同电脑上同时写hexo博客？](https://chown-jane-y.github.io/2017/03/15/(%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%94%B5%E8%84%91%E4%B8%8A%E5%90%8C%E6%97%B6%E5%86%99hexo%E5%8D%9A%E5%AE%A2%EF%BC%9F/)
-[第三方主题（Next）的基本配置]https://blog.csdn.net/Mculover666/article/details/90605489
+* 新增文章: `$hexo new post xxx`, 就會在source資料夾下產生xxx.md
