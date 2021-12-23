@@ -85,3 +85,10 @@ categories: Blog Setting
 ## Blog功能
 
 * 新增文章: `$hexo new post xxx`, 就會在source資料夾下產生xxx.md
+
+## 新增加圖片
+[解决Hexo图片无法显示问题](https://blog.csdn.net/weixin_30734435/article/details/98497054)
+1. 根目錄下配置文件_config.yml 中有 post_asset_folder:false 改為 true
+    * 這樣 hexo n "文章名稱", 就會自動在 source/post 下新增相同名稱資料夾(需要上傳的圖片放入)
+2. 安裝 git bash 套件 `npm install https://github.com/7ym0n/hexo-asset-image --save`
+3. 文章內插入圖片方式：{% asset_img xxx.jpg %}
