@@ -28,7 +28,7 @@
 <meta property="og:description" content="Hexo 基本設定(安裝與共用)記錄下如何自己架設hexo blog  建立Blog創建githubpage  Github上建立名稱為 StevenChiu86.github.io的public repository   下載hexo相關安裝包 安裝node.js, git 安裝hexo相關套件 12345npm install -g hexo-clihexo init name  &#x2F;&#x2F;初始化新">
 <meta property="og:locale" content="zh_TW">
 <meta property="article:published_time" content="2021-05-28T16:47:11.000Z">
-<meta property="article:modified_time" content="2021-08-30T13:39:36.452Z">
+<meta property="article:modified_time" content="2021-12-23T17:04:56.143Z">
 <meta property="article:author" content="Steven">
 <meta property="article:tag" content="Insatll and Setting">
 <meta name="twitter:card" content="summary">
@@ -192,7 +192,7 @@
                   <i class="far fa-calendar-check"></i>
                 </span>
                 <span class="post-meta-item-text">更新於</span>
-                <time title="修改時間：2021-08-30 21:39:36" itemprop="dateModified" datetime="2021-08-30T21:39:36+08:00">2021-08-30</time>
+                <time title="修改時間：2021-12-24 01:04:56" itemprop="dateModified" datetime="2021-12-24T01:04:56+08:00">2021-12-24</time>
               </span>
             <span class="post-meta-item">
               <span class="post-meta-item-icon">
@@ -260,6 +260,15 @@
 <ul>
 <li>新增文章: <code>$hexo new post xxx</code>, 就會在source資料夾下產生xxx.md</li>
 </ul>
+<h2 id="新增加圖片"><a href="#新增加圖片" class="headerlink" title="新增加圖片"></a>新增加圖片</h2><p><a target="_blank" rel="noopener" href="https://blog.csdn.net/weixin_30734435/article/details/98497054">解决Hexo图片无法显示问题</a></p>
+<ol>
+<li>根目錄下配置文件_config.yml 中有 post_asset_folder:false 改為 true<ul>
+<li>這樣 hexo n “文章名稱”, 就會自動在 source/post 下新增相同名稱資料夾(需要上傳的圖片放入)</li>
+</ul>
+</li>
+<li>安裝 git bash 套件 <code>npm install https://github.com/7ym0n/hexo-asset-image --save</code></li>
+<li>文章內插入圖片方式：</li>
+</ol>
 
     </div>
 
@@ -340,7 +349,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
-          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Hexo-%E5%9F%BA%E6%9C%AC%E8%A8%AD%E5%AE%9A-%E5%AE%89%E8%A3%9D%E8%88%87%E5%85%B1%E7%94%A8"><span class="nav-number">1.</span> <span class="nav-text">Hexo 基本設定(安裝與共用)</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BB%BA%E7%AB%8BBlog"><span class="nav-number">1.1.</span> <span class="nav-text">建立Blog</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%89%B5%E5%BB%BAgithubpage"><span class="nav-number">1.1.1.</span> <span class="nav-text">創建githubpage</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8B%E8%BC%89hexo%E7%9B%B8%E9%97%9C%E5%AE%89%E8%A3%9D%E5%8C%85"><span class="nav-number">1.1.2.</span> <span class="nav-text">下載hexo相關安裝包</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8A%E7%B6%B2%E9%81%B8%E7%AC%AC%E4%B8%89%E6%96%B9%E4%B8%BB%E9%A1%8C"><span class="nav-number">1.1.3.</span> <span class="nav-text">上網選第三方主題</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%8D%E5%90%8C%E9%9B%BB%E8%85%A6%E4%B8%8B%E5%90%8C%E6%AD%A5%E4%BF%AE%E6%94%B9hexo%E9%83%A8%E8%90%BD%E6%A0%BC"><span class="nav-number">1.2.</span> <span class="nav-text">不同電腦下同步修改hexo部落格</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8E%9F%E6%9C%AC%E9%9B%BB%E8%85%A6%E6%93%8D%E4%BD%9C"><span class="nav-number">1.2.1.</span> <span class="nav-text">原本電腦操作</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%96%B0%E7%9A%84%E9%9B%BB%E8%85%A6%E6%93%8D%E4%BD%9C"><span class="nav-number">1.2.2.</span> <span class="nav-text">新的電腦操作</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Blog%E5%8A%9F%E8%83%BD"><span class="nav-number">1.3.</span> <span class="nav-text">Blog功能</span></a></li></ol></li></ol></div>
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#Hexo-%E5%9F%BA%E6%9C%AC%E8%A8%AD%E5%AE%9A-%E5%AE%89%E8%A3%9D%E8%88%87%E5%85%B1%E7%94%A8"><span class="nav-number">1.</span> <span class="nav-text">Hexo 基本設定(安裝與共用)</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E5%BB%BA%E7%AB%8BBlog"><span class="nav-number">1.1.</span> <span class="nav-text">建立Blog</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%89%B5%E5%BB%BAgithubpage"><span class="nav-number">1.1.1.</span> <span class="nav-text">創建githubpage</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8B%E8%BC%89hexo%E7%9B%B8%E9%97%9C%E5%AE%89%E8%A3%9D%E5%8C%85"><span class="nav-number">1.1.2.</span> <span class="nav-text">下載hexo相關安裝包</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E4%B8%8A%E7%B6%B2%E9%81%B8%E7%AC%AC%E4%B8%89%E6%96%B9%E4%B8%BB%E9%A1%8C"><span class="nav-number">1.1.3.</span> <span class="nav-text">上網選第三方主題</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%8D%E5%90%8C%E9%9B%BB%E8%85%A6%E4%B8%8B%E5%90%8C%E6%AD%A5%E4%BF%AE%E6%94%B9hexo%E9%83%A8%E8%90%BD%E6%A0%BC"><span class="nav-number">1.2.</span> <span class="nav-text">不同電腦下同步修改hexo部落格</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#%E5%8E%9F%E6%9C%AC%E9%9B%BB%E8%85%A6%E6%93%8D%E4%BD%9C"><span class="nav-number">1.2.1.</span> <span class="nav-text">原本電腦操作</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#%E6%96%B0%E7%9A%84%E9%9B%BB%E8%85%A6%E6%93%8D%E4%BD%9C"><span class="nav-number">1.2.2.</span> <span class="nav-text">新的電腦操作</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Blog%E5%8A%9F%E8%83%BD"><span class="nav-number">1.3.</span> <span class="nav-text">Blog功能</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E6%96%B0%E5%A2%9E%E5%8A%A0%E5%9C%96%E7%89%87"><span class="nav-number">1.4.</span> <span class="nav-text">新增加圖片</span></a></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
@@ -361,13 +370,13 @@
       <div class="site-state-item site-state-categories">
             <a href="/categories/">
           
-        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-count">3</span>
         <span class="site-state-item-name">分類</span></a>
       </div>
       <div class="site-state-item site-state-tags">
             <a href="/tags/">
           
-        <span class="site-state-item-count">4</span>
+        <span class="site-state-item-count">3</span>
         <span class="site-state-item-name">標籤</span></a>
       </div>
   </nav>
