@@ -121,6 +121,71 @@
       </tags>
   </entry>
   <entry>
+    <title>Hexo 基本設定(安裝與共用)</title>
+    <url>/2021/05/29/Hexo-%E7%9B%B8%E9%97%9C%E8%A8%AD%E5%AE%9A/</url>
+    <content><![CDATA[<h1 id="Hexo-基本設定-安裝與共用"><a href="#Hexo-基本設定-安裝與共用" class="headerlink" title="Hexo 基本設定(安裝與共用)"></a>Hexo 基本設定(安裝與共用)</h1><p>記錄下如何自己架設hexo blog </p>
+<h2 id="建立Blog"><a href="#建立Blog" class="headerlink" title="建立Blog"></a>建立Blog</h2><h3 id="創建githubpage"><a href="#創建githubpage" class="headerlink" title="創建githubpage"></a>創建githubpage</h3><ol>
+<li> Github上建立名稱為 StevenChiu86.github.io的public repository </li>
+</ol>
+<h3 id="下載hexo相關安裝包"><a href="#下載hexo相關安裝包" class="headerlink" title="下載hexo相關安裝包"></a>下載hexo相關安裝包</h3><ol>
+<li>安裝node.js, git</li>
+<li>安裝hexo相關套件 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br><span class="line">hexo init name  //初始化新的 Hexo，會在當前路徑建立一個叫 name 的資料夾，資料夾名稱可以隨意取，例如「myblog」，那麼指令就是 hexo init myblog</span><br><span class="line">cd name  //進入您剛剛建立的 name 資料夾當中，cd 是 change directory 的意思</span><br><span class="line">npm install  //安裝 Hexo</span><br><span class="line">npm install hexo-deployer-git --save  //安裝 git 部署套件</span><br></pre></td></tr></table></figure></li>
+<li>設定_config.yaml檔案<br>打開 _config.yml 後，修改第 6~12 行資訊，輸入完記得按下 Ctrl+S 存檔(# 為註解)：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: Steven&#x27;s Blog</span><br><span class="line">subtitle: &#x27;努力努力再努力_YOLO&#x27;</span><br><span class="line">description: &#x27;這是Steven的blog, 分享些科技、生活、音樂等小記事, 歡迎大家來&#x27;</span><br><span class="line">keywords: Stevenblog</span><br><span class="line">author: Steven</span><br><span class="line">language: zh-TW</span><br><span class="line">timezone: &#x27;&#x27;</span><br></pre></td></tr></table></figure></li>
+<li>接著第 16 行的地方，url 請換成自己網站的連結 <a href="https://username.github.io/">https://username.github.io/</a> ，username是自己的 GitHub 帳號。</li>
+<li>設定部署至 GitHub 的資訊</li>
+</ol>
+<ul>
+<li>一樣在_config檔案裡面  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">type: git</span><br><span class="line">repository: https://github.com/StevenChiu86/StevenChiu86.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure></li>
+</ul>
+<ol start="6">
+<li>佈署至github <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo cl  //清除之前建立的靜態檔案，也可以輸入 hexo clean</span><br><span class="line">hexo g  //建立靜態檔案，也可以輸入 hexo generate</span><br><span class="line">hexo d  //部署至 Github Pages，也可以輸入 hexo deploy</span><br></pre></td></tr></table></figure></li>
+<li> 在本地端查看blog,打 <code>hexo s</code> 就能透過瀏覽器打localhost:4000 查看, 透過重新整理可以查看當前blog撰寫的樣子</li>
+</ol>
+<h3 id="上網選第三方主題"><a href="#上網選第三方主題" class="headerlink" title="上網選第三方主題"></a>上網選第三方主題</h3><ol>
+<li>首先進入theme目錄 <code>cd /themes</code></li>
+<li>git clone [第三方主題網址]</li>
+<li>修改_config檔案裡面的 <code>theme:[第三方主題名稱]</code></li>
+<li>刪除第三方主題的.git檔案<ul>
+<li>從別人的github下載主題後,經過自己的更改後要pull到github上,需要先到themes/[主題名稱]下的.git刪除(因為在有.git的資料夾下, 不能包含.git的資料夾),才能成功pull themes到github上</li>
+</ul>
+</li>
+</ol>
+<h2 id="不同電腦下同步修改hexo部落格"><a href="#不同電腦下同步修改hexo部落格" class="headerlink" title="不同電腦下同步修改hexo部落格"></a>不同電腦下同步修改hexo部落格</h2><p><a href="https://ed521.github.io/2019/07/hexo-install/">[教學] 使用 GitHub Pages + Hexo 來架設個人部落格</a><br><a href="https://chown-jane-y.github.io/2017/03/15/%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%94%B5%E8%84%91%E4%B8%8A%E5%90%8C%E6%97%B6%E5%86%99hexo%E5%8D%9A%E5%AE%A2%EF%BC%9F/">如何在不同电脑上同时写hexo博客？</a></p>
+<h3 id="原本電腦操作"><a href="#原本電腦操作" class="headerlink" title="原本電腦操作"></a>原本電腦操作</h3><ol>
+<li>在github下先刪除master裡面的資料, 然後創建一個叫hexo的branch(用於更新最新blog), 並把它變成default</li>
+<li>在本地也創建hexo branch <code>git branch hexo</code></li>
+<li>然後先把所有修改加入 <code>git add .</code> (要先把第三方主題的.git刪掉(在themes/[主題名稱]下))</li>
+<li>提交<code>git commit -m &quot;第一次push_同步給其他電腦使用&quot;</code></li>
+<li>git push origin hexo</li>
+</ol>
+<h3 id="新的電腦操作"><a href="#新的電腦操作" class="headerlink" title="新的電腦操作"></a>新的電腦操作</h3><ol>
+<li><code>git clone &quot;https://github.com/StevenChiu86/StevenChiu86.github.io&quot;</code></li>
+<li>下載相關hexo套件跟依賴 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo</span><br><span class="line">npm install</span><br><span class="line">npm install hexo-deployer-git –save</span><br></pre></td></tr></table></figure></li>
+<li>接下來就可以在新電腦上編輯bolg拉!!!</li>
+<li>編輯完後, 提交 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m &quot;你想留的資訊&quot;</span><br><span class="line">git push origin hexo</span><br></pre></td></tr></table></figure>
+<h2 id="Blog功能"><a href="#Blog功能" class="headerlink" title="Blog功能"></a>Blog功能</h2></li>
+</ol>
+<ul>
+<li>新增文章: <code>$hexo new post xxx</code>, 就會在source資料夾下產生xxx.md</li>
+</ul>
+<h2 id="新增加圖片"><a href="#新增加圖片" class="headerlink" title="新增加圖片"></a>新增加圖片</h2><p><a href="https://blog.csdn.net/weixin_30734435/article/details/98497054">解决Hexo图片无法显示问题</a></p>
+<ol>
+<li>根目錄下配置文件_config.yml 中有 post_asset_folder:false 改為 true<ul>
+<li>這樣 hexo n “文章名稱”, 就會自動在 source/post 下新增相同名稱資料夾(需要上傳的圖片放入)</li>
+</ul>
+</li>
+<li>安裝 git bash 套件 <code>npm install https://github.com/7ym0n/hexo-asset-image --save</code></li>
+<li>文章內插入圖片方式：</li>
+</ol>
+]]></content>
+      <categories>
+        <category>Blog Setting</category>
+      </categories>
+      <tags>
+        <tag>Insatll and Setting</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>book-思維的良率</title>
     <url>/2022/01/27/book-%E6%80%9D%E7%B6%AD%E7%9A%84%E8%89%AF%E7%8E%87/</url>
     <content><![CDATA[<h1 id="思維的良率"><a href="#思維的良率" class="headerlink" title="思維的良率"></a>思維的良率</h1><ul>
@@ -332,68 +397,50 @@
       </tags>
   </entry>
   <entry>
-    <title>Hexo 基本設定(安裝與共用)</title>
-    <url>/2021/05/29/Hexo-%E7%9B%B8%E9%97%9C%E8%A8%AD%E5%AE%9A/</url>
-    <content><![CDATA[<h1 id="Hexo-基本設定-安裝與共用"><a href="#Hexo-基本設定-安裝與共用" class="headerlink" title="Hexo 基本設定(安裝與共用)"></a>Hexo 基本設定(安裝與共用)</h1><p>記錄下如何自己架設hexo blog </p>
-<h2 id="建立Blog"><a href="#建立Blog" class="headerlink" title="建立Blog"></a>建立Blog</h2><h3 id="創建githubpage"><a href="#創建githubpage" class="headerlink" title="創建githubpage"></a>創建githubpage</h3><ol>
-<li> Github上建立名稱為 StevenChiu86.github.io的public repository </li>
-</ol>
-<h3 id="下載hexo相關安裝包"><a href="#下載hexo相關安裝包" class="headerlink" title="下載hexo相關安裝包"></a>下載hexo相關安裝包</h3><ol>
-<li>安裝node.js, git</li>
-<li>安裝hexo相關套件 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install -g hexo-cli</span><br><span class="line">hexo init name  //初始化新的 Hexo，會在當前路徑建立一個叫 name 的資料夾，資料夾名稱可以隨意取，例如「myblog」，那麼指令就是 hexo init myblog</span><br><span class="line">cd name  //進入您剛剛建立的 name 資料夾當中，cd 是 change directory 的意思</span><br><span class="line">npm install  //安裝 Hexo</span><br><span class="line">npm install hexo-deployer-git --save  //安裝 git 部署套件</span><br></pre></td></tr></table></figure></li>
-<li>設定_config.yaml檔案<br>打開 _config.yml 後，修改第 6~12 行資訊，輸入完記得按下 Ctrl+S 存檔(# 為註解)：<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">title: Steven&#x27;s Blog</span><br><span class="line">subtitle: &#x27;努力努力再努力_YOLO&#x27;</span><br><span class="line">description: &#x27;這是Steven的blog, 分享些科技、生活、音樂等小記事, 歡迎大家來&#x27;</span><br><span class="line">keywords: Stevenblog</span><br><span class="line">author: Steven</span><br><span class="line">language: zh-TW</span><br><span class="line">timezone: &#x27;&#x27;</span><br></pre></td></tr></table></figure></li>
-<li>接著第 16 行的地方，url 請換成自己網站的連結 <a href="https://username.github.io/">https://username.github.io/</a> ，username是自己的 GitHub 帳號。</li>
-<li>設定部署至 GitHub 的資訊</li>
-</ol>
+    <title>20220315-16美國行第1-2天</title>
+    <url>/2022/03/18/20220315-16%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC1-2%E5%A4%A9/</url>
+    <content><![CDATA[<h1 id="20220315-16美國行第-1-2天"><a href="#20220315-16美國行第-1-2天" class="headerlink" title="20220315-16美國行第 1, 2天"></a>20220315-16美國行第 1, 2天</h1><h2 id="美國日記-20220315-TW-3-16-ET"><a href="#美國日記-20220315-TW-3-16-ET" class="headerlink" title="美國日記 20220315(TW)- 3/16(ET)"></a>美國日記 20220315(TW)- 3/16(ET)</h2><h2 id="3-15"><a href="#3-15" class="headerlink" title="3/15"></a>3/15</h2><h2 id="出發-航班：United-Airline-TPE-SFO-（UA872）"><a href="#出發-航班：United-Airline-TPE-SFO-（UA872）" class="headerlink" title="出發 - 航班：United Airline TPE - SFO （UA872）"></a>出發 - 航班：United Airline TPE - SFO （UA872）</h2><p>Check in: 這次搭乘的是美國航空，托運行李排隊時，會要你先填寫一個表格，需要填寫你的護照姓名、是否打過2劑疫苗、是否有24小時前的 PCR、與填寫你到美國的居住地址，填寫完後在托運行李時，地勤會要你的護照、PCR與小黃卡，其中小黃卡無法是數位的版本，因數位版本為入境歐洲可以使用，入境美國要求能夠完整顯示施打哪種疫苗的紀錄（高端無法入境美國）由於我以為數位版本可以使用，後來地勤說健康保寶快易通的證明也行，也就通過了！ 後來我請我哥幫忙我拍小黃卡的照片，存在手機，以備他美國入境或是其他觀光景點需要查驗！<br>另外托運的地勤也提醒我們由於我們在舊金山轉機到波士頓為16小時左右，超過12小時的轉機無法將行李直接托運在飛機上， 因此<br>我們必須要先把行李拿出來再重新托運！</p>
+<p>檢查登機行李:後來我們前往檢查登機行李，這邊要注意的是保溫瓶的水要倒掉，任何電子設備都要拿出來放籃子並且需脫掉皮帶與身上沒東西，最後也順利通過啦</p>
+<p>出境: 由於我 2020/10才新發護照， 原先以為要重新辦理快速通關， 後來發現還是可以，流程： 1. 掃描護照 2. 眼睛看鏡頭 3.按壓指紋 這樣就完成啦<br>後來我們就走走晃晃逛免稅店，然後到候機室等我們的飛機啦</p>
+<p>登機: 登機後我的座位為 56B，位子算大也蠻方便去洗手間，接下來就是大家最期待的餐點啦： 主要以台式為主，好像是以出發的國家為主的料理! 一開始 先提供簡單的米餅（fig)並提供我們很多茶水的選項，接著是中餐：牛肉醬拌麵，口味的話普通，休息期間空服員很熱心時不時就會詢問我們要不要喝東西或是吃點什麼，只能說服務超好的啦❤️，吃完中餐後然後再來提供小點心麵包與三明治，看來他們是怕我們餓著渴了😂，吃飽喝足後就在飛機上看一看電影和聽音樂😎 最後一餐是早餐，因為到 SFO 是3/15早上6點多，餐點是台灣的肉燥米粉，中規中矩！ 最後由於班機將提早抵達SFO，熱心的空服員問我們要去哪裡，我們說要晚上 3/15 10:55轉機去 BOS ，空服員建議我們可以試搭到早上3/15 8:25前往 BOS 轉機，也準備了一些小餅乾跟口罩給我們❤️，並祝福我們旅途順利，這次入境 SFO 不用填寫入境表格，不像網路上說的在飛機上要填寫</p>
 <ul>
-<li>一樣在_config檔案裡面  <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">deploy:</span><br><span class="line">type: git</span><br><span class="line">repository: https://github.com/StevenChiu86/StevenChiu86.github.io.git</span><br><span class="line">branch: master</span><br></pre></td></tr></table></figure></li>
+<li>前往美國<img src="/2022/03/18/20220315-16%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC1-2%E5%A4%A9/leave_for_america.jpg" class></li>
 </ul>
-<ol start="6">
-<li>佈署至github <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">hexo cl  //清除之前建立的靜態檔案，也可以輸入 hexo clean</span><br><span class="line">hexo g  //建立靜態檔案，也可以輸入 hexo generate</span><br><span class="line">hexo d  //部署至 Github Pages，也可以輸入 hexo deploy</span><br></pre></td></tr></table></figure></li>
-<li> 在本地端查看blog,打 <code>hexo s</code> 就能透過瀏覽器打localhost:4000 查看, 透過重新整理可以查看當前blog撰寫的樣子</li>
-</ol>
-<h3 id="上網選第三方主題"><a href="#上網選第三方主題" class="headerlink" title="上網選第三方主題"></a>上網選第三方主題</h3><ol>
-<li>首先進入theme目錄 <code>cd /themes</code></li>
-<li>git clone [第三方主題網址]</li>
-<li>修改_config檔案裡面的 <code>theme:[第三方主題名稱]</code></li>
-<li>刪除第三方主題的.git檔案<ul>
-<li>從別人的github下載主題後,經過自己的更改後要pull到github上,需要先到themes/[主題名稱]下的.git刪除(因為在有.git的資料夾下, 不能包含.git的資料夾),才能成功pull themes到github上</li>
-</ul>
-</li>
-</ol>
-<h2 id="不同電腦下同步修改hexo部落格"><a href="#不同電腦下同步修改hexo部落格" class="headerlink" title="不同電腦下同步修改hexo部落格"></a>不同電腦下同步修改hexo部落格</h2><p><a href="https://ed521.github.io/2019/07/hexo-install/">[教學] 使用 GitHub Pages + Hexo 來架設個人部落格</a><br><a href="https://chown-jane-y.github.io/2017/03/15/%E5%A6%82%E4%BD%95%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%94%B5%E8%84%91%E4%B8%8A%E5%90%8C%E6%97%B6%E5%86%99hexo%E5%8D%9A%E5%AE%A2%EF%BC%9F/">如何在不同电脑上同时写hexo博客？</a></p>
-<h3 id="原本電腦操作"><a href="#原本電腦操作" class="headerlink" title="原本電腦操作"></a>原本電腦操作</h3><ol>
-<li>在github下先刪除master裡面的資料, 然後創建一個叫hexo的branch(用於更新最新blog), 並把它變成default</li>
-<li>在本地也創建hexo branch <code>git branch hexo</code></li>
-<li>然後先把所有修改加入 <code>git add .</code> (要先把第三方主題的.git刪掉(在themes/[主題名稱]下))</li>
-<li>提交<code>git commit -m &quot;第一次push_同步給其他電腦使用&quot;</code></li>
-<li>git push origin hexo</li>
-</ol>
-<h3 id="新的電腦操作"><a href="#新的電腦操作" class="headerlink" title="新的電腦操作"></a>新的電腦操作</h3><ol>
-<li><code>git clone &quot;https://github.com/StevenChiu86/StevenChiu86.github.io&quot;</code></li>
-<li>下載相關hexo套件跟依賴 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">npm install hexo</span><br><span class="line">npm install</span><br><span class="line">npm install hexo-deployer-git –save</span><br></pre></td></tr></table></figure></li>
-<li>接下來就可以在新電腦上編輯bolg拉!!!</li>
-<li>編輯完後, 提交 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git add .</span><br><span class="line">git commit -m &quot;你想留的資訊&quot;</span><br><span class="line">git push origin hexo</span><br></pre></td></tr></table></figure>
-<h2 id="Blog功能"><a href="#Blog功能" class="headerlink" title="Blog功能"></a>Blog功能</h2></li>
-</ol>
-<ul>
-<li>新增文章: <code>$hexo new post xxx</code>, 就會在source資料夾下產生xxx.md</li>
-</ul>
-<h2 id="新增加圖片"><a href="#新增加圖片" class="headerlink" title="新增加圖片"></a>新增加圖片</h2><p><a href="https://blog.csdn.net/weixin_30734435/article/details/98497054">解决Hexo图片无法显示问题</a></p>
+<h3 id="航班：United-Airline-SFO-BOS-（UA8712）"><a href="#航班：United-Airline-SFO-BOS-（UA8712）" class="headerlink" title="航班：United Airline SFO - BOS （UA8712）"></a>航班：United Airline SFO - BOS （UA8712）</h3><p>轉機: 聽取空服員的建議，我們就一下飛機馬上衝去入境的地方，由於我們是ESTA簽證，最多待的時間為 90天， 我們規劃待 83天，海關就問很多像飛機來回機票、行程規劃與旅遊等等，好像是 ESTA通常不會待這麼久！最後海關人員就帶我們進小房間詢問， 裡面的詢問官進行更詳細的詢問後，我也都順利回答出來也就讓我們過關啦😎過海關後 馬上衝去托運行李的地方更改機票，由於更改機票要先確認更改後的飛機有無座位，假如有座位的話也要等隨身行李檢查完到登機口旁邊的櫃檯詢問才會給您位子，我們就一路奔波，最後也順利的搭上 3/15 8:25 前往 BOS 的班機</p>
+<p>飛機上: 國內航線基本需另外花錢購買餐點，點心和基本茶水是不收費的！<br>由於時差關係，上了飛機以後就一直很想睡覺，所以就一直昏昏睡睡，但也因為第一次搭美國國內線航空，機上很多美國人，因此觀察到一些現象！</p>
 <ol>
-<li>根目錄下配置文件_config.yml 中有 post_asset_folder:false 改為 true<ul>
-<li>這樣 hexo n “文章名稱”, 就會自動在 source/post 下新增相同名稱資料夾(需要上傳的圖片放入)</li>
+<li>像是美國人很喜歡把家庭照放在自己的電腦或是平板桌布</li>
+<li>大部分在飛機上的美國人都會用筆電或是平板且只有少部分使用 MacBook</li>
+</ol>
+<h3 id="抵達-BOS"><a href="#抵達-BOS" class="headerlink" title="抵達 BOS"></a>抵達 BOS</h3><p>抵達BOS機場後發現機場超級漂亮乾淨的. 後來 Kevin 和二舅媽就來接我們會他們的家！終於要真正的踏進美國拉!!! 在前往舅媽家的路上，看到了壯觀的波士頓大橋，還有看到位於 BOS Downtown 的Cectics 籃球主場，超級開心與興奮的拉!!! 舅媽的小鎮是家長都很注重學習的學區，是治安很好且環境優良的好地方，一回家小舅媽就準備好熱騰騰的火鍋等我們開動，將奔波的衣服卸下後就跟著一起吃火鍋，結束後 Kevin 就開車帶我們附近的 shake shack 吃漢堡 和 Yard house 喝一杯並且介紹美國的一些文化與差異，學到超多的，喝完酒後就回來！準備明天12點前往 Chicago</p>
+<ul>
+<li>With Kevin 吃 shake shack<img src="/2022/03/18/20220315-16%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC1-2%E5%A4%A9/with_kevin_shakeshack.jpg" class></li>
 </ul>
-</li>
-<li>安裝 git bash 套件 <code>npm install https://github.com/7ym0n/hexo-asset-image --save</code></li>
-<li>文章內插入圖片方式：</li>
+<h2 id="3-16"><a href="#3-16" class="headerlink" title="3/16"></a>3/16</h2><h2 id="America-airline-BOS-ORD-AA629"><a href="#America-airline-BOS-ORD-AA629" class="headerlink" title="America airline: BOS - ORD (AA629)"></a>America airline: BOS - ORD (AA629)</h2><p>早上6:50 小舅舅就載我們前往 Boston 機場，前往中也跟我們介紹 BOS 和 來美國要注意的事項，抵達機場後，我們先到 Donki donuts 吃早餐， 我點了 avocado toast with ice latte,然後就載機場附近走走晃晃到12:10搭上前往芝加哥的飛機，這次座位是靠窗，所以可以近距離看到美國國土之間的樣貌， 在空中往下看，可以體會到美國腹地非常大，且很多未開發的地方. 這趟航程就在看窗外風景加上聊天中度過</p>
+<ul>
+<li>BOS 到 ORD 飛機上風景</li>
+</ul>
+<img src="/2022/03/18/20220315-16%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC1-2%E5%A4%A9/Bos_Ord_airplane.jpg" class>
+
+<h3 id="EAC-shuttle-bus-ORD-Purdue-Campus"><a href="#EAC-shuttle-bus-ORD-Purdue-Campus" class="headerlink" title="EAC shuttle bus ORD - Purdue Campus"></a>EAC shuttle bus ORD - Purdue Campus</h3><p>抵達了ORD機場，進入眼簾的是非常大的機場，裡面還有像是美食街的地方，感覺與波士頓機場蠻不同的，抵達後我們就等待前往 Purdue 的 EAC 巴士並且提早買好 CityBus 28天通行票，到了 16:30 我們就搭上車出發拉! 由於這幾天的奔波，我在車上就直接睡著，睡一睡大概在 20:00 上下就到達了，這邊只能說巴士司機放行李箱都是用衰的，直接把我的登機行李箱摔壞，只好之後買，接下來我們就先到 DQ 吃晚餐，點了一個漢堡套餐加一個 草莓 sundae，整體來說超好吃的拉XD，最後我們就用 Left app 叫車前往位於 拉法葉的 airbnb。房東是一個非洲人，環境很有非裔家庭的感覺，蠻溫馨的，只是房間裡床上的選轉電風扇非常容易讓人感到頭暈XD，最後就洗澡休息來結束這兩天長途奔波的日子拉XD</p>
+<img src="/2022/03/18/20220315-16%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC1-2%E5%A4%A9/arrive_airbnb.jpg" class>
+
+<h2 id="Note"><a href="#Note" class="headerlink" title="Note:"></a>Note:</h2><p>來美國該學會的</p>
+<h3 id="心態："><a href="#心態：" class="headerlink" title="心態："></a>心態：</h3><ol>
+<li>Fake it till you make it: 假裝你已經成功，最後你就會真的成功</li>
+<li>要有自信，大方的與對方聊天，但是遇到你非常不喜歡的人就不要繼續下去</li>
+</ol>
+<h3 id="交朋友："><a href="#交朋友：" class="headerlink" title="交朋友："></a>交朋友：</h3><ol>
+<li>在某個新的地方交朋友最快的方式就是知道對方喜歡喝什麼類型的酒，這樣對方就會覺得你已經是他熟悉的朋友了（當然食物或是音樂也適用）</li>
+<li>剛來到美國的人可以說 It’s my first time come to America, I want to experience the culture here. 這樣的話 95%的美國朋友會很熱情對待你</li>
+<li>到餐廳點餐時不知道要吃什麼的時候可以說：It’s my first time come to the U.S. and I want to try the food here! Do you have any recommendations?</li>
 </ol>
 ]]></content>
       <categories>
-        <category>Blog Setting</category>
+        <category>Travel</category>
       </categories>
       <tags>
-        <tag>Insatll and Setting</tag>
+        <tag>America</tag>
       </tags>
   </entry>
 </search>
