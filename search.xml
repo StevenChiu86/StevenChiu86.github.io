@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2021暑假台積電實習心得</title>
+    <url>/2021/09/03/2021%E6%9A%91%E5%81%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<h2 id="實習投遞"><a href="#實習投遞" class="headerlink" title="實習投遞:"></a>實習投遞:</h2><ul>
+<li>我叫邱國哲, 目前就讀交大電子所系統組碩士二年級,因為想在學生時代能提前了解業界工作情形，因此在碩一下投遞了 2021台積電暑期實習計畫。有幸接獲Fab8 製程整合工程師面試邀約，面試當天，主管和我交談中了解我的學經歷，得知我專長為通訊、AI與邊緣運算，希望我能結合我的專長解決課上遇到的問題，並且希望在實習階段中學習半導體製程相關知識， 也出一個作業要我針對實習日程計畫與學習半導體知識的規劃提出一個簡報， 最後簡報也被主管接受並正式收到實習聘書。  </li>
+</ul>
+<h2 id="實習期間-7-5-–-9-3"><a href="#實習期間-7-5-–-9-3" class="headerlink" title="實習期間(7/5 – 9/3):"></a>實習期間(7/5 – 9/3):</h2><ul>
+<li>由於疫情關係，實習第一天的導覽與介紹改成線上進行，主要針對公司理念與規範進行說明，並在隔天我就到台積電 8 廠 製程整合三部進行我的實習生活，到公司後，部門秘書會給你公司手機與電腦且要你開通工作需要的權限，然後熟悉公司內部軟體。在疫情期間，公司也針對人員安全進行把控，針對同部門人員分到不同樓層，避免同個部門有人感染就會使整個部門無法運作! 另外將奇數樓層與偶數樓層人員分為紅軍與藍軍，規範吃飯時間與紅藍軍不能互相到對方樓層，且使用開會軟體 Teams 進行開會與上課! 有效減少人員接觸!首先介紹一下製程整合工程師目標是提供客戶品質良好的 wafer(晶圓)，主要工作: 1.觀測 WAT trend chart,這個 WAT trend chart顯示 wafer 的電性表現，如果發現異常電性點，必須分析該異常電性點與哪段製程有關係，並向對應製程工程師回報狀況，如果確定出是哪一道製成的機台參數所造成 wafer電性異常， 必須對該參數進行嚴格管控且對該產品線的 wafer持續追蹤。2.當 wafer生產完成轉交給客戶，客戶會將 wafer交給檢測廠進行全面檢測，並且將檢測結果回報台積電，我們對客戶回傳的檢測報告進行審視與改進。在實習期間，公司提供很多線上半導體相關課程，提供不同部門同仁可以學習到更多元的知識，且課內學長姊也會親自教學課內會需要的相關知識，因此我能夠很快對課內需要的半導體知識點有初步了解， 當你有不會的觀念，可以彙總並記錄下來，當學長姐有空會會很熱心地教導你。暑期實習生最大的活動就是專題比賽，主要會以解決課上遇到的問題進行改善，首先會在廠內進行初選，選出代表後再與不同廠的代表進行比賽。最後選出前三名與三個佳作。我的課上在二月時遇到一個產品線的 wafer良率不佳，經由多個有經驗的同事進行全面分析，終於找出問題原因並且持續追蹤，但整體流程花費大量人力與時間，，這也讓課內主管與我和帶我的學長進行討論，看能不能從中找出優化方法。最後探討出題目 WAT Early defense by AI”作為我的專題競賽題目。題目主要利用自動化機器人撈取資料庫的資料，將資料用來訓練 AI 模型，再用AI模型提前一個月就先預測最後 wafer 的 WAT trend chart，如果預測發現有異常點，就可以提前找出問題並改善，減少預測到最後生產的一個月之間的不良品產出, 這樣做能對公司節省非常巨大的成本。最後並將 WAT trend chart 定時自動寄送到相關工程師上。 這整個流程有效節省人力與時間成本並且減少大量不良品產出，最後也順利得到 8 廠 專題比賽第一名與廠外第二名。</li>
+</ul>
+<h2 id="實習收穫"><a href="#實習收穫" class="headerlink" title="實習收穫:"></a>實習收穫:</h2><ul>
+<li>在台積電工作必須要有的技能主要有幾項: 1.時間規劃，通常每個人同時會有很多事情需要處理，很常會在還沒做完就有新的工作指派給你，你必須優先完成最優先的事項，提高工作的效率。2.做任何事情前考慮做完後可能會延伸的問題，確定是符合你要的，就認真去做。3.與別人合作只講重點，減少冗字，有效溝通。4.做任何事情以誠信為主。</li>
+<li>最後我想說: 能到台積電實習是非常寶貴的經驗， 使我的心態與做事態度有著顯著的改變，推薦各位學弟妹有機會去實習就好好把握，趁學生實習了解你未來工作的情況!</li>
+</ul>
+<h2 id="實習圖片"><a href="#實習圖片" class="headerlink" title="實習圖片:"></a>實習圖片:</h2><h3 id="2021台積電暑期實習競賽第二名獎狀"><a href="#2021台積電暑期實習競賽第二名獎狀" class="headerlink" title="2021台積電暑期實習競賽第二名獎狀"></a>2021台積電暑期實習競賽第二名獎狀</h3><img src="/2021/09/03/2021%E6%9A%91%E5%81%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/tsmc_intern01.jpg" class>
+<h3 id="8廠全體實習生與廠長合照"><a href="#8廠全體實習生與廠長合照" class="headerlink" title="8廠全體實習生與廠長合照"></a>8廠全體實習生與廠長合照</h3><img src="/2021/09/03/2021%E6%9A%91%E5%81%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/tsmc_intern02.jpg" class>]]></content>
+      <categories>
+        <category>Job</category>
+      </categories>
+      <tags>
+        <tag>intern</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20211211-1212 KStart 議題松演講心得</title>
     <url>/2021/12/15/20211211%E9%87%91%E9%96%80%E5%A4%A7%E5%AD%B8KStart%E6%BC%94%E8%AC%9B/</url>
     <content><![CDATA[<ul>
@@ -99,28 +121,6 @@
       </tags>
   </entry>
   <entry>
-    <title>2021暑假台積電實習心得</title>
-    <url>/2021/09/03/2021%E6%9A%91%E5%81%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<h2 id="實習投遞"><a href="#實習投遞" class="headerlink" title="實習投遞:"></a>實習投遞:</h2><ul>
-<li>我叫邱國哲, 目前就讀交大電子所系統組碩士二年級,因為想在學生時代能提前了解業界工作情形，因此在碩一下投遞了 2021台積電暑期實習計畫。有幸接獲Fab8 製程整合工程師面試邀約，面試當天，主管和我交談中了解我的學經歷，得知我專長為通訊、AI與邊緣運算，希望我能結合我的專長解決課上遇到的問題，並且希望在實習階段中學習半導體製程相關知識， 也出一個作業要我針對實習日程計畫與學習半導體知識的規劃提出一個簡報， 最後簡報也被主管接受並正式收到實習聘書。  </li>
-</ul>
-<h2 id="實習期間-7-5-–-9-3"><a href="#實習期間-7-5-–-9-3" class="headerlink" title="實習期間(7/5 – 9/3):"></a>實習期間(7/5 – 9/3):</h2><ul>
-<li>由於疫情關係，實習第一天的導覽與介紹改成線上進行，主要針對公司理念與規範進行說明，並在隔天我就到台積電 8 廠 製程整合三部進行我的實習生活，到公司後，部門秘書會給你公司手機與電腦且要你開通工作需要的權限，然後熟悉公司內部軟體。在疫情期間，公司也針對人員安全進行把控，針對同部門人員分到不同樓層，避免同個部門有人感染就會使整個部門無法運作! 另外將奇數樓層與偶數樓層人員分為紅軍與藍軍，規範吃飯時間與紅藍軍不能互相到對方樓層，且使用開會軟體 Teams 進行開會與上課! 有效減少人員接觸!首先介紹一下製程整合工程師目標是提供客戶品質良好的 wafer(晶圓)，主要工作: 1.觀測 WAT trend chart,這個 WAT trend chart顯示 wafer 的電性表現，如果發現異常電性點，必須分析該異常電性點與哪段製程有關係，並向對應製程工程師回報狀況，如果確定出是哪一道製成的機台參數所造成 wafer電性異常， 必須對該參數進行嚴格管控且對該產品線的 wafer持續追蹤。2.當 wafer生產完成轉交給客戶，客戶會將 wafer交給檢測廠進行全面檢測，並且將檢測結果回報台積電，我們對客戶回傳的檢測報告進行審視與改進。在實習期間，公司提供很多線上半導體相關課程，提供不同部門同仁可以學習到更多元的知識，且課內學長姊也會親自教學課內會需要的相關知識，因此我能夠很快對課內需要的半導體知識點有初步了解， 當你有不會的觀念，可以彙總並記錄下來，當學長姐有空會會很熱心地教導你。暑期實習生最大的活動就是專題比賽，主要會以解決課上遇到的問題進行改善，首先會在廠內進行初選，選出代表後再與不同廠的代表進行比賽。最後選出前三名與三個佳作。我的課上在二月時遇到一個產品線的 wafer良率不佳，經由多個有經驗的同事進行全面分析，終於找出問題原因並且持續追蹤，但整體流程花費大量人力與時間，，這也讓課內主管與我和帶我的學長進行討論，看能不能從中找出優化方法。最後探討出題目 WAT Early defense by AI”作為我的專題競賽題目。題目主要利用自動化機器人撈取資料庫的資料，將資料用來訓練 AI 模型，再用AI模型提前一個月就先預測最後 wafer 的 WAT trend chart，如果預測發現有異常點，就可以提前找出問題並改善，減少預測到最後生產的一個月之間的不良品產出, 這樣做能對公司節省非常巨大的成本。最後並將 WAT trend chart 定時自動寄送到相關工程師上。 這整個流程有效節省人力與時間成本並且減少大量不良品產出，最後也順利得到 8 廠 專題比賽第一名與廠外第二名。</li>
-</ul>
-<h2 id="實習收穫"><a href="#實習收穫" class="headerlink" title="實習收穫:"></a>實習收穫:</h2><ul>
-<li>在台積電工作必須要有的技能主要有幾項: 1.時間規劃，通常每個人同時會有很多事情需要處理，很常會在還沒做完就有新的工作指派給你，你必須優先完成最優先的事項，提高工作的效率。2.做任何事情前考慮做完後可能會延伸的問題，確定是符合你要的，就認真去做。3.與別人合作只講重點，減少冗字，有效溝通。4.做任何事情以誠信為主。</li>
-<li>最後我想說: 能到台積電實習是非常寶貴的經驗， 使我的心態與做事態度有著顯著的改變，推薦各位學弟妹有機會去實習就好好把握，趁學生實習了解你未來工作的情況!</li>
-</ul>
-<h2 id="實習圖片"><a href="#實習圖片" class="headerlink" title="實習圖片:"></a>實習圖片:</h2><h3 id="2021台積電暑期實習競賽第二名獎狀"><a href="#2021台積電暑期實習競賽第二名獎狀" class="headerlink" title="2021台積電暑期實習競賽第二名獎狀"></a>2021台積電暑期實習競賽第二名獎狀</h3><img src="/2021/09/03/2021%E6%9A%91%E5%81%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/tsmc_intern01.jpg" class>
-<h3 id="8廠全體實習生與廠長合照"><a href="#8廠全體實習生與廠長合照" class="headerlink" title="8廠全體實習生與廠長合照"></a>8廠全體實習生與廠長合照</h3><img src="/2021/09/03/2021%E6%9A%91%E5%81%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/tsmc_intern02.jpg" class>]]></content>
-      <categories>
-        <category>Job</category>
-      </categories>
-      <tags>
-        <tag>intern</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20220317美國行第3天-IN</title>
     <url>/2022/03/18/20220317%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC3%E5%A4%A9-IN/</url>
     <content><![CDATA[<h1 id="20220317美國行第3天-IN"><a href="#20220317美國行第3天-IN" class="headerlink" title="20220317美國行第3天(IN)"></a>20220317美國行第3天(IN)</h1><h2 id="上午"><a href="#上午" class="headerlink" title="上午"></a>上午</h2><p>因想多體驗美國生活，所以 6:30 就起床做事，到7點多時突然有人進來，原來是另一個租 airbnb 的房客，是個非洲人，來在美國工作一陣子了。跟他閒聊一下後，我們走路前往路程 20 分鐘位於普渡旁邊的 target 超市 採買一些日常用品與煮飯的食材。走在美國的街道上，有一種我真的到美國的感覺，每個街景都像是美劇出現的景象，街道上牆壁的塗鴉、房子外觀、路邊的號誌等都讓我很有感觸!!! 到 target 後，能感覺到像台灣的小型家樂福，賣很多食品與一些生活用品~我們就買些雞蛋、吐司、酪梨、雞肉等回去做早午餐其中牛奶一大罐才4塊，只能說牛奶跟酒在美國一定比水便宜XD，回去 airbnb 就做酪梨蛋吐司 + 雞胸肉當我們的早午餐。</p>
@@ -139,6 +139,44 @@
 <li>Purdue 正門</li>
 </ul>
 <img src="/2022/03/18/20220317%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC3%E5%A4%A9-IN/purdue_main_entrance.jpg" class>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220318美國行第4天-IN</title>
+    <url>/2022/03/18/20220318%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC4%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220318美國行第4天-IN"><a href="#20220318美國行第4天-IN" class="headerlink" title="20220318美國行第4天(IN)"></a>20220318美國行第4天(IN)</h1><h2 id="3-18"><a href="#3-18" class="headerlink" title="3/18"></a>3/18</h2><p>早起開始剪輯我第一支 YT 影片 <strong>EP0: 出發去美國拉</strong>，剪影片主要流程就是:先將整個影片的流程順好，在開始增加音樂與修改影片長度，最後上一些片段的字幕，然後看過沒問題後就可以導出影片囉!!</p>
+<p>下午我們打算去 Walmart 採買，因此中午就走去附近的 CityBus 搭去 WalMart，一進去 Walmart，就乾覺到非常寬敞且賣各式各樣的商品，個人覺得像是放大版的家樂福! 我主要的戰利品是 5.5 美金的 dickes 短袖，便宜又好看，還有大概 13 美金上下的米蘭錶帶跟皮錶帶 for Apple watch，真的超開心~ 零食的話買了朋友推薦的 hot chetto 跟 sour patch，只能說我會回購的那種好吃拉 &gt;&lt;。我們將每個主要的區域都逛過後，就回去 airbnb 拉，回到家就發布我的 YT 影片，然後煮晚餐並且做一些正式結束這一天 </p>
+<ul>
+<li><p>搭 CityBus 前往 Walmart</p>
+  <img src="/2022/03/18/20220318%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC4%E5%A4%A9-IN/Citybus.jpg" class></li>
+<li><p>抵達 Walmart</p>
+  <img src="/2022/03/18/20220318%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC4%E5%A4%A9-IN/Walmart.jpg" class></li>
+<li><p>Walmart 裡面</p>
+  <img src="/2022/03/18/20220318%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC4%E5%A4%A9-IN/Walmart_inside.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220319美國行第5天-IN</title>
+    <url>/2022/03/20/20220319%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC5%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220319美國行第5天-IN"><a href="#20220319美國行第5天-IN" class="headerlink" title="20220319美國行第5天(IN)"></a>20220319美國行第5天(IN)</h1><p>今天外面大致上都在下雨，溫度也非常冷約 5~6 度，但是體感溫度有來到 1 度!! 早起做點事情後大約11點多出去外面散步走走，除了運動以外能多體驗美國的生活! 一到外面，毛毛雨加上冷颼颼的風，沒多久爾多就開始痛拉XD 但還是繼續走到 Target 附近逛逛，看有沒有新的店家值得去探訪，後來走回租屋處後跟在德州的表弟 Alex 與小阿姨 Cindy 討論一下5月5號後的行程規劃，有了小阿姨的初步行程規劃，大致上對於之後美國的體驗行程更有畫面了!!! 然後下午大約 5 點多，我們去吃前總統歐巴馬最喜歡吃的漢堡店 <strong>Five Guys</strong>，在出發前還做了功課看點什麼吃比較好，Five Guys 為五位兄弟所創，堅持用新鮮沒冷凍的食材做料理，漢堡可客製化加配料，其中漢堡可以說 All in way，意思是所有的料都可以加，最後點了All in way 培根起斯漢堡、墨西哥風味薯條、還有培根奶昔! Five Guys 還有一大特色就是免費的花生，喜歡花生的朋友有福了XD 首先我覺得漢堡好吃的，蔬菜多且培根與肉的搭配很讚，薯條的厚度夠，最後品嘗 培根奶昔，意外的蠻好喝的，不會很鹹，主要還是以甜味居多搭配脆脆的口感! 吃飽就心滿意足的回家拉! 回家後就隨興地讀一下書結束今天</p>
+<ul>
+<li>下雨天的 Lafayette<img src="/2022/03/20/20220319%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC5%E5%A4%A9-IN/20220319lafayette_street.jpg" class></li>
+<li>With Five Guys meal 合照<img src="/2022/03/20/20220319%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC5%E5%A4%A9-IN/selfie_with_burger.JPG" class></li>
+<li>Five Guys 餐點<img src="/2022/03/20/20220319%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC5%E5%A4%A9-IN/five_guys_meal.jpg" class></li>
+</ul>
 ]]></content>
       <categories>
         <category>Exchange</category>
@@ -195,49 +233,11 @@
       </tags>
   </entry>
   <entry>
-    <title>20220319美國行第5天-IN</title>
-    <url>/2022/03/20/20220319%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC5%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220319美國行第5天-IN"><a href="#20220319美國行第5天-IN" class="headerlink" title="20220319美國行第5天(IN)"></a>20220319美國行第5天(IN)</h1><p>今天外面大致上都在下雨，溫度也非常冷約 5~6 度，但是體感溫度有來到 1 度!! 早起做點事情後大約11點多出去外面散步走走，除了運動以外能多體驗美國的生活! 一到外面，毛毛雨加上冷颼颼的風，沒多久爾多就開始痛拉XD 但還是繼續走到 Target 附近逛逛，看有沒有新的店家值得去探訪，後來走回租屋處後跟在德州的表弟 Alex 與小阿姨 Cindy 討論一下5月5號後的行程規劃，有了小阿姨的初步行程規劃，大致上對於之後美國的體驗行程更有畫面了!!! 然後下午大約 5 點多，我們去吃前總統歐巴馬最喜歡吃的漢堡店 <strong>Five Guys</strong>，在出發前還做了功課看點什麼吃比較好，Five Guys 為五位兄弟所創，堅持用新鮮沒冷凍的食材做料理，漢堡可客製化加配料，其中漢堡可以說 All in way，意思是所有的料都可以加，最後點了All in way 培根起斯漢堡、墨西哥風味薯條、還有培根奶昔! Five Guys 還有一大特色就是免費的花生，喜歡花生的朋友有福了XD 首先我覺得漢堡好吃的，蔬菜多且培根與肉的搭配很讚，薯條的厚度夠，最後品嘗 培根奶昔，意外的蠻好喝的，不會很鹹，主要還是以甜味居多搭配脆脆的口感! 吃飽就心滿意足的回家拉! 回家後就隨興地讀一下書結束今天</p>
-<ul>
-<li>下雨天的 Lafayette<img src="/2022/03/20/20220319%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC5%E5%A4%A9-IN/20220319lafayette_street.jpg" class></li>
-<li>With Five Guys meal 合照<img src="/2022/03/20/20220319%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC5%E5%A4%A9-IN/selfie_with_burger.JPG" class></li>
-<li>Five Guys 餐點<img src="/2022/03/20/20220319%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC5%E5%A4%A9-IN/five_guys_meal.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20220320美國行第6天-IN</title>
     <url>/2022/03/20/20220320%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC6%E5%A4%A9-IN/</url>
     <content><![CDATA[<h1 id="20220320美國第6天"><a href="#20220320美國第6天" class="headerlink" title="20220320美國第6天"></a>20220320美國第6天</h1><p>今天天氣超好，吃完午餐後就在附近走走，搭成 City Bus 4A 前往附近的 Dick’s 用動用品店逛街，裡面有很多牌子像是 Nike、The North Face、Columbia 等等牌子，整體來說都比台灣便宜，非常好逛，Dick’s 再繼續往裡面走有很多間店，有賣衣服、玩具、繪畫、食物等等，每個店家都有自己的特色且都不錯，我們就到每間店走走然後進入另一個百貨 Macy，這間 Macy 裝潢與販賣的物品就有點像是台灣的佳瑪，過起來有種不像是一般精品店，然後我們就前往 Best Buy 三C用品專賣店閒晃，能發現到電子用品沒有特別便宜，就算是美國製造的，最後我就在附近晃晃就回家啦</p>
 <ul>
 <li>Dick 運動用品店<img src="/2022/03/20/20220320%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC6%E5%A4%A9-IN/selfie_with_Dick.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20220318美國行第4天-IN</title>
-    <url>/2022/03/18/20220318%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC4%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220318美國行第4天-IN"><a href="#20220318美國行第4天-IN" class="headerlink" title="20220318美國行第4天(IN)"></a>20220318美國行第4天(IN)</h1><h2 id="3-18"><a href="#3-18" class="headerlink" title="3/18"></a>3/18</h2><p>早起開始剪輯我第一支 YT 影片 <strong>EP0: 出發去美國拉</strong>，剪影片主要流程就是:先將整個影片的流程順好，在開始增加音樂與修改影片長度，最後上一些片段的字幕，然後看過沒問題後就可以導出影片囉!!</p>
-<p>下午我們打算去 Walmart 採買，因此中午就走去附近的 CityBus 搭去 WalMart，一進去 Walmart，就乾覺到非常寬敞且賣各式各樣的商品，個人覺得像是放大版的家樂福! 我主要的戰利品是 5.5 美金的 dickes 短袖，便宜又好看，還有大概 13 美金上下的米蘭錶帶跟皮錶帶 for Apple watch，真的超開心~ 零食的話買了朋友推薦的 hot chetto 跟 sour patch，只能說我會回購的那種好吃拉 &gt;&lt;。我們將每個主要的區域都逛過後，就回去 airbnb 拉，回到家就發布我的 YT 影片，然後煮晚餐並且做一些正式結束這一天 </p>
-<ul>
-<li><p>搭 CityBus 前往 Walmart</p>
-  <img src="/2022/03/18/20220318%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC4%E5%A4%A9-IN/Citybus.jpg" class></li>
-<li><p>抵達 Walmart</p>
-  <img src="/2022/03/18/20220318%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC4%E5%A4%A9-IN/Walmart.jpg" class></li>
-<li><p>Walmart 裡面</p>
-  <img src="/2022/03/18/20220318%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC4%E5%A4%A9-IN/Walmart_inside.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -320,12 +320,13 @@
       </tags>
   </entry>
   <entry>
-    <title>20220325美國行第11天-IN</title>
-    <url>/2022/03/25/20220325%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC11%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220325美國行第11天-IN"><a href="#20220325美國行第11天-IN" class="headerlink" title="20220325美國行第11天(IN)"></a>20220325美國行第11天(IN)</h1><p>今天早起做些論文研究，中午的時候想說走路去 BookStore 買一些紀念品順便運動，但由於天氣太冷了，後來就到 CityBus Station 搭 4B 往 Purdue Campus，由於我們在錯站下車，就晃到動物科學系館晃晃，然後最後到我們3/16晚上一開始搭 Suttle Bus 到的 Purdue West BookStore 逛逛，這間比起我們一開始去的離我們住的地方的書店商品種類多超多的，最後我買2個鑰匙圈，然後就在學校附近晃晃，路上看到有一群穿奇裝異服的群體在路上走來走去，還有辦在學校辦車聚的，只能說大學的校園生活真的多彩多姿，後來就到在側門的 BookStore 買一件 Purdue 帽T，還有去 Target 買牛排、辣的奇多跟 墨西哥起司Chips 沾醬就走回去拉。回去馬上試沾醬，蠻好吃的!! 再來就在家做一些論文研究，晚餐煎牛排跟煮泡麵，吃超飽的，然後就看 NBA 讀點書就結束今天拉</p>
+    <title>20220326美國行第12天-IN</title>
+    <url>/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220326美國行第12天-IN"><a href="#20220326美國行第12天-IN" class="headerlink" title="20220326美國行第12天(IN)"></a>20220326美國行第12天(IN)</h1><p>今天早起特別的冷，原來是外面下雪啦，開到窗外下雪馬上到窗外體驗下雪的氛圍，第一次看到雪真的超級興奮馬上拍了好幾張照片，然後在家研究下禮拜二到四前往印第安納州市區看NBA還有周圍旅遊等，大約11點的時候就到外面好好體驗下雪的氛圍，在外面可以看到草地上或者車上很容易有積雪，我就到有較多積雪的草地玩雪拍照，最後也因為想看看下雪的 Purdue 就前往學校啦，路上真的很冷，手很容易痛，首先我先去橋下看河，河真的很壯觀，非常的大，然後就前往學校，一進到學校門口，可以看到非常漂亮的積雪，隨手一拍都是美景，然後我就前往四處晃晃，其中也有看到 Purdue 先生的銅像，就一起合照然後到電機系館晃晃，最後就走回來啦！回來後馬上洗熱水澡然後確定好下禮拜的住宿與交通就開始做論文的研究，雖然有點卡關，但只好努力了💪然後就煮牛排跟麵當午餐，晚餐吃牛排跟生菜🥬結束今天啦❤️</p>
 <ul>
-<li>Purdue West BookStore<img src="/2022/03/25/20220325%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC11%E5%A4%A9-IN/purdue_west_bookstore.jpg" class></li>
-<li>Lafayette street<img src="/2022/03/25/20220325%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC11%E5%A4%A9-IN/lafayette_street.jpg" class></li>
+<li>Airbnb 外面的雪景<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/airbnb_outside.jpg" class></li>
+<li>與 Purdue 先生自拍<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/selfiewithmrpurdue.jpg" class></li>
+<li>下雪的 Purdue<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/snowcampus.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -336,13 +337,12 @@
       </tags>
   </entry>
   <entry>
-    <title>20220326美國行第12天-IN</title>
-    <url>/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220326美國行第12天-IN"><a href="#20220326美國行第12天-IN" class="headerlink" title="20220326美國行第12天(IN)"></a>20220326美國行第12天(IN)</h1><p>今天早起特別的冷，原來是外面下雪啦，開到窗外下雪馬上到窗外體驗下雪的氛圍，第一次看到雪真的超級興奮馬上拍了好幾張照片，然後在家研究下禮拜二到四前往印第安納州市區看NBA還有周圍旅遊等，大約11點的時候就到外面好好體驗下雪的氛圍，在外面可以看到草地上或者車上很容易有積雪，我就到有較多積雪的草地玩雪拍照，最後也因為想看看下雪的 Purdue 就前往學校啦，路上真的很冷，手很容易痛，首先我先去橋下看河，河真的很壯觀，非常的大，然後就前往學校，一進到學校門口，可以看到非常漂亮的積雪，隨手一拍都是美景，然後我就前往四處晃晃，其中也有看到 Purdue 先生的銅像，就一起合照然後到電機系館晃晃，最後就走回來啦！回來後馬上洗熱水澡然後確定好下禮拜的住宿與交通就開始做論文的研究，雖然有點卡關，但只好努力了💪然後就煮牛排跟麵當午餐，晚餐吃牛排跟生菜🥬結束今天啦❤️</p>
+    <title>20220325美國行第11天-IN</title>
+    <url>/2022/03/25/20220325%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC11%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220325美國行第11天-IN"><a href="#20220325美國行第11天-IN" class="headerlink" title="20220325美國行第11天(IN)"></a>20220325美國行第11天(IN)</h1><p>今天早起做些論文研究，中午的時候想說走路去 BookStore 買一些紀念品順便運動，但由於天氣太冷了，後來就到 CityBus Station 搭 4B 往 Purdue Campus，由於我們在錯站下車，就晃到動物科學系館晃晃，然後最後到我們3/16晚上一開始搭 Suttle Bus 到的 Purdue West BookStore 逛逛，這間比起我們一開始去的離我們住的地方的書店商品種類多超多的，最後我買2個鑰匙圈，然後就在學校附近晃晃，路上看到有一群穿奇裝異服的群體在路上走來走去，還有辦在學校辦車聚的，只能說大學的校園生活真的多彩多姿，後來就到在側門的 BookStore 買一件 Purdue 帽T，還有去 Target 買牛排、辣的奇多跟 墨西哥起司Chips 沾醬就走回去拉。回去馬上試沾醬，蠻好吃的!! 再來就在家做一些論文研究，晚餐煎牛排跟煮泡麵，吃超飽的，然後就看 NBA 讀點書就結束今天拉</p>
 <ul>
-<li>Airbnb 外面的雪景<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/airbnb_outside.jpg" class></li>
-<li>與 Purdue 先生自拍<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/selfiewithmrpurdue.jpg" class></li>
-<li>下雪的 Purdue<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/snowcampus.jpg" class></li>
+<li>Purdue West BookStore<img src="/2022/03/25/20220325%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC11%E5%A4%A9-IN/purdue_west_bookstore.jpg" class></li>
+<li>Lafayette street<img src="/2022/03/25/20220325%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC11%E5%A4%A9-IN/lafayette_street.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -471,11 +471,12 @@
       </tags>
   </entry>
   <entry>
-    <title>20220403美國行第20天-IN</title>
-    <url>/2022/04/03/20220403%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC20%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220403美國行第20天-IN"><a href="#20220403美國行第20天-IN" class="headerlink" title="20220403美國行第20天(IN)"></a>20220403美國行第20天(IN)</h1><p>今天早起研究論文，主要是在之前做的架構下新增新功能，早上與 Russell 通電話，更新來美國第三個禮拜的近況，並且與 Michael 學長通電話詢問想在美國工作的可能，較有可能是需要原本就是工作簽然後美國的公司看到你優秀才有可能聘請或者在美國讀碩士然後把握實習、校園博覽會徵才，在透過美國公司幫你申請工作簽，中午時段與 Purdue Phd 學長訊息討論在這邊的合作，學長會去詢問 Postdoctor 我們合作的事宜，下午前往 Target 買菜，然後坐 City Bus 4B 回來，晚上煮咖哩義大利麵配牛排 :) </p>
+    <title>20220404美國行第21天-IN</title>
+    <url>/2022/04/04/20220404%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC21%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220404美國行第21天-IN"><a href="#20220404美國行第21天-IN" class="headerlink" title="20220404美國行第21天(IN)"></a>20220404美國行第21天(IN)</h1><p>今天主要早起做研究，主要是發想論文應用，中午吃完午餐就前往 PMU 讀書拉，PMU 裡面有餐廳、咖啡店甚至還有遊戲間給學生娛樂，也蠻多位置供學生讀書討論的，下午我們就在這裡認真一波，大約5:30就離開，離開後前往 Target 與華夏超市購物，在華夏超市可以感覺到大部分商品都是台灣 2 到 3 倍價格，只能說台灣吃飯真的很幸福~ 最後就回家煮辣雞麵當晚餐結束今天拉</p>
 <ul>
-<li>天氣好的Purdue校園旁街景<img src="/2022/04/03/20220403%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC20%E5%A4%A9-IN/purdue_weather.jpg" class></li>
+<li>PMU 外觀<img src="/2022/04/04/20220404%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC21%E5%A4%A9-IN/pmu_appearance.jpg" class></li>
+<li>PMU 裡面奮鬥<img src="/2022/04/04/20220404%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC21%E5%A4%A9-IN/work_in_pmu.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -486,12 +487,11 @@
       </tags>
   </entry>
   <entry>
-    <title>20220404美國行第21天-IN</title>
-    <url>/2022/04/04/20220404%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC21%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220404美國行第21天-IN"><a href="#20220404美國行第21天-IN" class="headerlink" title="20220404美國行第21天(IN)"></a>20220404美國行第21天(IN)</h1><p>今天主要早起做研究，主要是發想論文應用，中午吃完午餐就前往 PMU 讀書拉，PMU 裡面有餐廳、咖啡店甚至還有遊戲間給學生娛樂，也蠻多位置供學生讀書討論的，下午我們就在這裡認真一波，大約5:30就離開，離開後前往 Target 與華夏超市購物，在華夏超市可以感覺到大部分商品都是台灣 2 到 3 倍價格，只能說台灣吃飯真的很幸福~ 最後就回家煮辣雞麵當晚餐結束今天拉</p>
+    <title>20220403美國行第20天-IN</title>
+    <url>/2022/04/03/20220403%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC20%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220403美國行第20天-IN"><a href="#20220403美國行第20天-IN" class="headerlink" title="20220403美國行第20天(IN)"></a>20220403美國行第20天(IN)</h1><p>今天早起研究論文，主要是在之前做的架構下新增新功能，早上與 Russell 通電話，更新來美國第三個禮拜的近況，並且與 Michael 學長通電話詢問想在美國工作的可能，較有可能是需要原本就是工作簽然後美國的公司看到你優秀才有可能聘請或者在美國讀碩士然後把握實習、校園博覽會徵才，在透過美國公司幫你申請工作簽，中午時段與 Purdue Phd 學長訊息討論在這邊的合作，學長會去詢問 Postdoctor 我們合作的事宜，下午前往 Target 買菜，然後坐 City Bus 4B 回來，晚上煮咖哩義大利麵配牛排 :) </p>
 <ul>
-<li>PMU 外觀<img src="/2022/04/04/20220404%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC21%E5%A4%A9-IN/pmu_appearance.jpg" class></li>
-<li>PMU 裡面奮鬥<img src="/2022/04/04/20220404%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC21%E5%A4%A9-IN/work_in_pmu.jpg" class></li>
+<li>天氣好的Purdue校園旁街景<img src="/2022/04/03/20220403%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC20%E5%A4%A9-IN/purdue_weather.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -550,22 +550,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20220409美國行第26天-IN</title>
-    <url>/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220409美國行第26天-IN"><a href="#20220409美國行第26天-IN" class="headerlink" title="20220409美國行第26天(IN)"></a>20220409美國行第26天(IN)</h1><p>今天早上剪輯 <strong>YT 影片：Indy 旅遊</strong> 中午吃完飯就搭 City Bus 前往 Dick’s，由於之前逛過這次就很快逛完然後搭車前往 Lafayette Pavilion，這邊就有很多店家，主要是家居裝飾與雜貨店，算是好逛的一個區，其中我去一間叫做 Five Below，我買了一些零食餅乾去結帳，要付款前店員用很快的語速講了一長串話，好像是要我 donate 錢什麼的，我沒聽很清楚就說 pardon me，結果他說 never mind 並且對另一個店員搖頭，讓我感覺到非常不舒服！最後就結完帳就到繼續讀其他店逛，最後到 Fresh Thyme Market 買菜然後回家煮牛排跟咖哩麵，結束今天~</p>
-<ul>
-<li>Lafayette Pavilions<img src="/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/lafayette_pavilions.jpg" class></li>
-<li>Fresh Thyme Market<img src="/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/fresh_thyme_market.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20220408美國行第25天-IN</title>
     <url>/2022/04/08/20220408%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC25%E5%A4%A9-IN/</url>
     <content><![CDATA[<h1 id="20220408美國行第25天-IN"><a href="#20220408美國行第25天-IN" class="headerlink" title="20220408美國行第25天(IN)"></a>20220408美國行第25天(IN)</h1><p>今天大約10點多起床，繼續做研究，中午吃完午餐(白醬義大利麵)後下午原本要去學校附近讀書，但感覺外面天氣有點冷且陰天我們就在家讀書，今天主要將建置 APP 還有 DB的設定，算是蠻有效率的一天，晚上一樣做 taco(佐料是 Chipotle醬料、牛肉塊、番茄丁、泡菜與起司) 配上牛排，並且飯後水果為美國超大的草莓! 只能說是一個幸福滿滿的晚餐 😃</p>
@@ -583,27 +567,12 @@
       </tags>
   </entry>
   <entry>
-    <title>20220411美國行第28天-IN</title>
-    <url>/2022/04/11/20220411%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC28%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220411美國行第28天-IN"><a href="#20220411美國行第28天-IN" class="headerlink" title="20220411美國行第28天(IN)"></a>20220411美國行第28天(IN)</h1><p>今天大約10點多起床，然後開始為接下來的旅程訂機票、住宿，中午吃完飯就繼續規劃，只能說自行規畫行程與交通真的很繁瑣! 但也是蠻有成就感~大約下午 5 點多前往 Target 與華夏超市購買食物煮晚餐! 最後把大致上的交通、住宿、景點完成</p>
+    <title>20220409美國行第26天-IN</title>
+    <url>/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220409美國行第26天-IN"><a href="#20220409美國行第26天-IN" class="headerlink" title="20220409美國行第26天(IN)"></a>20220409美國行第26天(IN)</h1><p>今天早上剪輯 <strong>YT 影片：Indy 旅遊</strong> 中午吃完飯就搭 City Bus 前往 Dick’s，由於之前逛過這次就很快逛完然後搭車前往 Lafayette Pavilion，這邊就有很多店家，主要是家居裝飾與雜貨店，算是好逛的一個區，其中我去一間叫做 Five Below，我買了一些零食餅乾去結帳，要付款前店員用很快的語速講了一長串話，好像是要我 donate 錢什麼的，我沒聽很清楚就說 pardon me，結果他說 never mind 並且對另一個店員搖頭，讓我感覺到非常不舒服！最後就結完帳就到繼續讀其他店逛，最後到 Fresh Thyme Market 買菜然後回家煮牛排跟咖哩麵，結束今天~</p>
 <ul>
-<li>逛華夏超市<img src="/2022/04/11/20220411%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC28%E5%A4%A9-IN/china_market.jpg" class></li>
-<li>走回 Airbnb<img src="/2022/04/11/20220411%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC28%E5%A4%A9-IN/back_airbnb.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20220410美國行第27天-IN</title>
-    <url>/2022/04/11/20220410%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC27%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220410美國行第27天-IN"><a href="#20220410美國行第27天-IN" class="headerlink" title="20220410美國行第27天(IN)"></a>20220410美國行第27天(IN)</h1><p>今天早上剪影片”NBA Pacers v.s 76ers” 然後下午與小阿姨討論之後 5/5 ~ 6/8 之間的大致行程，會先從 Chicago 機場(ORD) → Seattle → SFO → LA → Huston → Dallas → Austin → San Antonio → Washion DC → New York → Boston，然後晚上主要針對各個城市的景點與交通進行更深的討論!</p>
-<ul>
-<li>討論行程<img src="/2022/04/11/20220410%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC27%E5%A4%A9-IN/discuss_schedule.jpg" class></li>
+<li>Lafayette Pavilions<img src="/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/lafayette_pavilions.jpg" class></li>
+<li>Fresh Thyme Market<img src="/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/fresh_thyme_market.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -629,11 +598,27 @@
       </tags>
   </entry>
   <entry>
-    <title>20220413美國行第30天-IN</title>
-    <url>/2022/04/13/20220413%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC30%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220413美國行第30天-IN"><a href="#20220413美國行第30天-IN" class="headerlink" title="20220413美國行第30天(IN)"></a>20220413美國行第30天(IN)</h1><p>今天本來要到學校裡面讀書，但看天氣預報，發先大概率會下一整天的雨，只好在租屋處做事~ 延續昨天的研究，今天主要撰寫一些程式與 Vault 互動，持續努力，期盼能夠早日完成! </p>
+    <title>20220410美國行第27天-IN</title>
+    <url>/2022/04/11/20220410%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC27%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220410美國行第27天-IN"><a href="#20220410美國行第27天-IN" class="headerlink" title="20220410美國行第27天(IN)"></a>20220410美國行第27天(IN)</h1><p>今天早上剪影片”NBA Pacers v.s 76ers” 然後下午與小阿姨討論之後 5/5 ~ 6/8 之間的大致行程，會先從 Chicago 機場(ORD) → Seattle → SFO → LA → Huston → Dallas → Austin → San Antonio → Washion DC → New York → Boston，然後晚上主要針對各個城市的景點與交通進行更深的討論!</p>
 <ul>
-<li>住宿外面的風景<img src="/2022/04/13/20220413%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC30%E5%A4%A9-IN/outside_airbnb.jpg" class></li>
+<li>討論行程<img src="/2022/04/11/20220410%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC27%E5%A4%A9-IN/discuss_schedule.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220411美國行第28天-IN</title>
+    <url>/2022/04/11/20220411%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC28%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220411美國行第28天-IN"><a href="#20220411美國行第28天-IN" class="headerlink" title="20220411美國行第28天(IN)"></a>20220411美國行第28天(IN)</h1><p>今天大約10點多起床，然後開始為接下來的旅程訂機票、住宿，中午吃完飯就繼續規劃，只能說自行規畫行程與交通真的很繁瑣! 但也是蠻有成就感~大約下午 5 點多前往 Target 與華夏超市購買食物煮晚餐! 最後把大致上的交通、住宿、景點完成</p>
+<ul>
+<li>逛華夏超市<img src="/2022/04/11/20220411%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC28%E5%A4%A9-IN/china_market.jpg" class></li>
+<li>走回 Airbnb<img src="/2022/04/11/20220411%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC28%E5%A4%A9-IN/back_airbnb.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -661,6 +646,21 @@
       </tags>
   </entry>
   <entry>
+    <title>20220413美國行第30天-IN</title>
+    <url>/2022/04/13/20220413%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC30%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220413美國行第30天-IN"><a href="#20220413美國行第30天-IN" class="headerlink" title="20220413美國行第30天(IN)"></a>20220413美國行第30天(IN)</h1><p>今天本來要到學校裡面讀書，但看天氣預報，發先大概率會下一整天的雨，只好在租屋處做事~ 延續昨天的研究，今天主要撰寫一些程式與 Vault 互動，持續努力，期盼能夠早日完成! </p>
+<ul>
+<li>住宿外面的風景<img src="/2022/04/13/20220413%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC30%E5%A4%A9-IN/outside_airbnb.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20220415美國行第32天-IN</title>
     <url>/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/</url>
     <content><![CDATA[<h1 id="20220415美國行第32天-IN"><a href="#20220415美國行第32天-IN" class="headerlink" title="20220415美國行第32天(IN)"></a>20220415美國行第32天(IN)</h1><p>今天吃完午餐後看到外面天氣很好，就到學校附近走走散心! 這次走到 DQ 吃他們最有名的 Blizzard ， 我點的口味是 Oreo Dirt Pie ，裡面是 Oreo 加上小熊軟糖! 超級特別的也算是好吃。然後就走到 Target 買瓶果汁就回租屋處，晚上看了一個綜藝節目 “來吧營業中”，主要是在講一群藝人找一個老舊的屋子重新打掃、裝修到最後營業餐廳! 蠻好看的</p>
@@ -668,6 +668,21 @@
 <li>DQ<img src="/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/dq_store.jpg" class>
 <img src="/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/blizzard.jpg" class></li>
 <li>學校的草坪<img src="/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/school_lawn.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220416美國行第33天-IN</title>
+    <url>/2022/04/16/20220416%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC33%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220416美國行第33天-IN"><a href="#20220416美國行第33天-IN" class="headerlink" title="20220416美國行第33天(IN)"></a>20220416美國行第33天(IN)</h1><p>今天一樣做研究，這次著重在完成初版論文簡報，參考學長姐的報告格式與順序然後構思自己的研究呈現，大致上完成整體的架構，接下來就是豐富內容與完成實驗! 今天都待在住宿的地方哈哈~</p>
+<ul>
+<li>Airbnb 內照片<img src="/2022/04/16/20220416%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC33%E5%A4%A9-IN/airbnb_kitchen.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -686,21 +701,6 @@
 <img src="/2022/04/17/20220417%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC34%E5%A4%A9-IN/way_to_walmart.jpg" class>
 <img src="/2022/04/17/20220417%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC34%E5%A4%A9-IN/beside_walmart.jpg" class></li>
 <li>超大顆的草莓<img src="/2022/04/17/20220417%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC34%E5%A4%A9-IN/strawberry.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20220416美國行第33天-IN</title>
-    <url>/2022/04/16/20220416%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC33%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220416美國行第33天-IN"><a href="#20220416美國行第33天-IN" class="headerlink" title="20220416美國行第33天(IN)"></a>20220416美國行第33天(IN)</h1><p>今天一樣做研究，這次著重在完成初版論文簡報，參考學長姐的報告格式與順序然後構思自己的研究呈現，大致上完成整體的架構，接下來就是豐富內容與完成實驗! 今天都待在住宿的地方哈哈~</p>
-<ul>
-<li>Airbnb 內照片<img src="/2022/04/16/20220416%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC33%E5%A4%A9-IN/airbnb_kitchen.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -839,27 +839,27 @@
       </tags>
   </entry>
   <entry>
-    <title>20220425美國行第42天-IN</title>
-    <url>/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220425美國行第42天-IN"><a href="#20220425美國行第42天-IN" class="headerlink" title="20220425美國行第42天(IN)"></a>20220425美國行第42天(IN)</h1><p>今天早起就撞見新來的兩個年輕黑人 Roommates，算是和善的，但是他們會在陽台上抽菸! 只能說超級臭☹️然後今天主要在租屋處做研究，因為在沒多久就要離開 Lafayette 去其他地方! 晚上的話繼續做研究，Roommates 則在客廳看電影，結束今天!</p>
+    <title>20220426美國行第43天-IN</title>
+    <url>/2022/04/27/20220426%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC43%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220426美國行第43天-IN"><a href="#20220426美國行第43天-IN" class="headerlink" title="20220426美國行第43天(IN)"></a>20220426美國行第43天(IN)</h1><p>今天主要在家裡做研究，繼續做 PPT ，然後規劃之後旅遊的住宿與機票，把德州往波士頓的機票還有波士頓往華盛頓的機票訂好並且購買加州 Universal 的門票，然後晚上兩個黑人 Roommates 12點從 bar 回來，其中矮的黑人就到房間休息，高的就變得特別亢奮一直想和我們講話!這時候警察就開始到我們這棟敲門，詢問是否有人看到有人流血，黑人不敢上門回應，我就上門回應說沒人流血，此時還沒注意到原來是矮個黑人流血，但在高個黑人說要洗澡然後將東西放進浴室時，我剛好要去上廁所就發現有血跡! 馬上就跟黑人說我要回房間睡覺了並且把房門鎖上! 然後就到隔天，好險晚上睡覺這段時間沒有被他們強行進入我們房間並且傷害我們</p>
 <ul>
-<li>好吃的冰淇淋<img src="/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/ice_cream.jpg" class></li>
-<li>Roommates 看電影<img src="/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/roommates.jpg" class></li>
+<li>晚間警方在外面查詢血跡來源<img src="/2022/04/27/20220426%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC43%E5%A4%A9-IN/outside_police.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
-        <category>Travel</category>
+        <category>Exchange</category>
       </categories>
       <tags>
         <tag>America</tag>
       </tags>
   </entry>
   <entry>
-    <title>20220426美國行第43天-IN</title>
-    <url>/2022/04/27/20220426%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC43%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220426美國行第43天-IN"><a href="#20220426美國行第43天-IN" class="headerlink" title="20220426美國行第43天(IN)"></a>20220426美國行第43天(IN)</h1><p>今天主要在家裡做研究，繼續做 PPT ，然後規劃之後旅遊的住宿與機票，把德州往波士頓的機票還有波士頓往華盛頓的機票訂好並且購買加州 Universal 的門票，然後晚上兩個黑人 Roommates 12點從 bar 回來，其中矮的黑人就到房間休息，高的就變得特別亢奮一直想和我們講話!這時候警察就開始到我們這棟敲門，詢問是否有人看到有人流血，黑人不敢上門回應，我就上門回應說沒人流血，此時還沒注意到原來是矮個黑人流血，但在高個黑人說要洗澡然後將東西放進浴室時，我剛好要去上廁所就發現有血跡! 馬上就跟黑人說我要回房間睡覺了並且把房門鎖上! 然後就到隔天，好險晚上睡覺這段時間沒有被他們強行進入我們房間並且傷害我們</p>
+    <title>20220425美國行第42天-IN</title>
+    <url>/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220425美國行第42天-IN"><a href="#20220425美國行第42天-IN" class="headerlink" title="20220425美國行第42天(IN)"></a>20220425美國行第42天(IN)</h1><p>今天早起就撞見新來的兩個年輕黑人 Roommates，算是和善的，但是他們會在陽台上抽菸! 只能說超級臭☹️然後今天主要在租屋處做研究，因為在沒多久就要離開 Lafayette 去其他地方! 晚上的話繼續做研究，Roommates 則在客廳看電影，結束今天!</p>
 <ul>
-<li>晚間警方在外面查詢血跡來源<img src="/2022/04/27/20220426%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC43%E5%A4%A9-IN/outside_police.jpg" class></li>
+<li>好吃的冰淇淋<img src="/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/ice_cream.jpg" class></li>
+<li>Roommates 看電影<img src="/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/roommates.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -940,6 +940,21 @@
       </tags>
   </entry>
   <entry>
+    <title>20220503美國行第50天-IN</title>
+    <url>/2022/05/03/20220503%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC50%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220503美國行第50天-IN"><a href="#20220503美國行第50天-IN" class="headerlink" title="20220503美國行第50天(IN)"></a>20220503美國行第50天(IN)</h1><p>由於前幾天出去外面運動，今天早起全身有點痠痛，準備整天待在住宿地方做事，今天主要完成兩部 YT Film: “芝加哥旅遊”和 ”芝加哥景點”，還有學習財經與供應鏈產業相關知識! 另外準備明天要與 Chris 報告的 Thesis PPT 且打算開始撰寫論文!</p>
+<ul>
+<li>剪片<img src="/2022/05/03/20220503%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC50%E5%A4%A9-IN/edit_film.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Travel</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20220501美國行第48天-IN</title>
     <url>/2022/05/01/20220501%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC48%E5%A4%A9-IN/</url>
     <content><![CDATA[<h1 id="20220501美國行第48天-IN"><a href="#20220501美國行第48天-IN" class="headerlink" title="20220501美國行第48天(IN)"></a>20220501美國行第48天(IN)</h1><p>今天早起接到房東電話，房東說之前的黑人 Roommate 可能會回來復仇，希望我們能搬到其他 Airbnb，我們說可以並且等候房東的安排，與 Russell 早上更新近況後，中午就煎牛排，然後下午繼續修改論文 PPT!吃完晚餐，大約 7<br>點，房東將新的 Airbnb 提供給我們，我們就收拾東西前往新的租屋處! 然後約 8:50 與台灣的教授開會報告論文進度，老師也給我們下禮拜要與美國教授報告的一些建議! 最後就開心地結束今天拉!</p>
@@ -977,15 +992,16 @@
       </tags>
   </entry>
   <entry>
-    <title>20220503美國行第50天-IN</title>
-    <url>/2022/05/03/20220503%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC50%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220503美國行第50天-IN"><a href="#20220503美國行第50天-IN" class="headerlink" title="20220503美國行第50天(IN)"></a>20220503美國行第50天(IN)</h1><p>由於前幾天出去外面運動，今天早起全身有點痠痛，準備整天待在住宿地方做事，今天主要完成兩部 YT Film: “芝加哥旅遊”和 ”芝加哥景點”，還有學習財經與供應鏈產業相關知識! 另外準備明天要與 Chris 報告的 Thesis PPT 且打算開始撰寫論文!</p>
+    <title>20220504美國行第51天-IN</title>
+    <url>/2022/05/04/20220504%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC51%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220504美國行第51天-IN"><a href="#20220504美國行第51天-IN" class="headerlink" title="20220504美國行第51天(IN)"></a>20220504美國行第51天(IN)</h1><p>今天是最後一天待在 Lafayette，早上到下午都在最後準備 17:00 與 Chris 報告我們的 Thesis，約4點多我們就前往 Meeting 教室，由於教授在處理一些計畫的事情，我們就先與台灣的 Phd 學長閒聊一些博士生活與美國工作情況，最後教授約快 18:00 到教室，並且點星巴克給我們喝，然後聽我們分享，除了論文主題外，我也分享一些我在美國生活學到的一些東西，並且與教授提到之後有機會想來美國讀 Phd 的事情! 教授也很熱情的回應並且說之後可以持續聯絡! 結束了今天的報告，我們正是要和 Purdue 說掰掰! 然後我們就回家吃完晚餐休息一會開始討論之後行程細項，結束今天!</p>
 <ul>
-<li>剪片<img src="/2022/05/03/20220503%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC50%E5%A4%A9-IN/edit_film.jpg" class></li>
+<li>Meeting會議室<img src="/2022/05/04/20220504%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC51%E5%A4%A9-IN/meeting_room.jpg" class> </li>
+<li>Bye! Purdue<img src="/2022/05/04/20220504%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC51%E5%A4%A9-IN/chris_starbuck.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
-        <category>Travel</category>
+        <category>Exchange</category>
       </categories>
       <tags>
         <tag>America</tag>
@@ -997,22 +1013,6 @@
     <content><![CDATA[<h1 id="20220505美國行第52天-SEA"><a href="#20220505美國行第52天-SEA" class="headerlink" title="20220505美國行第52天(SEA)"></a>20220505美國行第52天(SEA)</h1><p>今天早上在Airbnb吃完早餐後、收拾好東西就搭 Uber 到 Stewart Center的 EAC 往 ORD機場上車的地方，由於我們提早11點多到爆，就在Stewart Center裡面等等大約12點多搭上！上車後坐我旁邊的是台灣人，倍感親切，然後到 ORD機場約3點，然後開使托運行李、check in等，進出境後我們就到我們的 Gate B4附近坐著吃水果，然後在機場裡面晃晃，約4登上機然後約4個小時的航程到西雅圖，由於西雅圖早芝加哥2小時，所以達到那裡約下午6:30，由於小的行李箱在運送過程中被凹一個洞，所以我去找 United 反應，但是他們回應是硬的行李箱凹洞難免的！後來也沒有換一個新的！然後我們就買 ORCA 卡搭 light rail 到我們的青年旅館 Green Tortoise Hostel Seattle check in！這邊很酷的是基本每天都有活動 for 住客，也有讓住戶們交流的空間！非常的讚，由於我們用到好約8點，我們到外面晃晃發現大部分店家都關門了！我們就回去洗澡睡覺結束今天</p>
 <ul>
 <li>派克市場夜景<img src="/2022/05/10/20220505%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC52%E5%A4%A9-SEA/night_pike.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20220504美國行第51天-IN</title>
-    <url>/2022/05/04/20220504%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC51%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220504美國行第51天-IN"><a href="#20220504美國行第51天-IN" class="headerlink" title="20220504美國行第51天(IN)"></a>20220504美國行第51天(IN)</h1><p>今天是最後一天待在 Lafayette，早上到下午都在最後準備 17:00 與 Chris 報告我們的 Thesis，約4點多我們就前往 Meeting 教室，由於教授在處理一些計畫的事情，我們就先與台灣的 Phd 學長閒聊一些博士生活與美國工作情況，最後教授約快 18:00 到教室，並且點星巴克給我們喝，然後聽我們分享，除了論文主題外，我也分享一些我在美國生活學到的一些東西，並且與教授提到之後有機會想來美國讀 Phd 的事情! 教授也很熱情的回應並且說之後可以持續聯絡! 結束了今天的報告，我們正是要和 Purdue 說掰掰! 然後我們就回家吃完晚餐休息一會開始討論之後行程細項，結束今天!</p>
-<ul>
-<li>Meeting會議室<img src="/2022/05/04/20220504%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC51%E5%A4%A9-IN/meeting_room.jpg" class> </li>
-<li>Bye! Purdue<img src="/2022/05/04/20220504%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC51%E5%A4%A9-IN/chris_starbuck.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
