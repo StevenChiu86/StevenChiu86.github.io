@@ -177,16 +177,18 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
+  Linkedin: https://www.linkedin.com/in/kuo-che-steven-chiu-1aab601b6/ || fab fa-linkedin
   GitHub: https://github.com/StevenChiu86 || fab fa-github
+  FB Page: https://www.facebook.com/profile.php?id=100000439565154 || fab fa-facebook
+  Instagram: https://instagram.com/kcchiu86 || fab fa-instagram
+  YouTube: https://www.youtube.com/channel/UCUAAW6CcW5UH-jPWcNYKaow/featured || fab fa-youtube
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
-  FB Page: https://www.facebook.com/profile.php?id=100000439565154 || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
-  YouTube: https://www.youtube.com/channel/UCUAAW6CcW5UH-jPWcNYKaow/featured || fab fa-youtube
-  Instagram: https://instagram.com/kcchiu86 || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
+  
 
 social_icons:
   enable: true
