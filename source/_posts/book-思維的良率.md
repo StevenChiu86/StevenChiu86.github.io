@@ -2,7 +2,7 @@
 title: book-思維的良率
 date: 2022-01-27 22:52:37
 tags: Reading_experience
-categories: Book
+categories: Summary
 ---
 # 思維的良率
 

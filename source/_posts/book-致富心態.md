@@ -2,7 +2,7 @@
 title: book_致富心態
 date: 2021-08-30 21:41:22
 tags: Reading_experience
-categories: Book
+categories: Summary
 ---
 # 致富心態
 
