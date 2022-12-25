@@ -1,7 +1,7 @@
 ---
 title: book_致富心態
 date: 2021-08-30 21:41:22
-tags: Finance
+tags: Reading_experience
 categories: Book
 ---
 # 致富心態
