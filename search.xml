@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>2021台積電暑期實習心得</title>
+    <url>/2021/09/03/2021%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/</url>
+    <content><![CDATA[<h2 id="實習投遞"><a href="#實習投遞" class="headerlink" title="實習投遞:"></a>實習投遞:</h2><ul>
+<li>我叫邱國哲, 目前就讀交大電子所系統組碩士二年級,因為想在學生時代能提前了解業界工作情形，因此在碩一下投遞了 2021台積電暑期實習計畫。有幸接獲Fab8 製程整合工程師面試邀約，面試當天，主管和我交談中了解我的學經歷，得知我專長為通訊、AI與邊緣運算，希望我能結合我的專長解決課上遇到的問題，並且希望在實習階段中學習半導體製程相關知識， 也出一個作業要我針對實習日程計畫與學習半導體知識的規劃提出一個簡報， 最後簡報也被主管接受並正式收到實習聘書。  </li>
+</ul>
+<h2 id="實習期間-7-5-–-9-3"><a href="#實習期間-7-5-–-9-3" class="headerlink" title="實習期間(7/5 – 9/3):"></a>實習期間(7/5 – 9/3):</h2><ul>
+<li>由於疫情關係，實習第一天的導覽與介紹改成線上進行，主要針對公司理念與規範進行說明，並在隔天我就到台積電 8 廠 製程整合三部進行我的實習生活，到公司後，部門秘書會給你公司手機與電腦且要你開通工作需要的權限，然後熟悉公司內部軟體。在疫情期間，公司也針對人員安全進行把控，針對同部門人員分到不同樓層，避免同個部門有人感染就會使整個部門無法運作! 另外將奇數樓層與偶數樓層人員分為紅軍與藍軍，規範吃飯時間與紅藍軍不能互相到對方樓層，且使用開會軟體 Teams 進行開會與上課! 有效減少人員接觸!首先介紹一下製程整合工程師目標是提供客戶品質良好的 wafer(晶圓)，主要工作: 1.觀測 WAT trend chart,這個 WAT trend chart顯示 wafer 的電性表現，如果發現異常電性點，必須分析該異常電性點與哪段製程有關係，並向對應製程工程師回報狀況，如果確定出是哪一道製成的機台參數所造成 wafer電性異常， 必須對該參數進行嚴格管控且對該產品線的 wafer持續追蹤。2.當 wafer生產完成轉交給客戶，客戶會將 wafer交給檢測廠進行全面檢測，並且將檢測結果回報台積電，我們對客戶回傳的檢測報告進行審視與改進。在實習期間，公司提供很多線上半導體相關課程，提供不同部門同仁可以學習到更多元的知識，且課內學長姊也會親自教學課內會需要的相關知識，因此我能夠很快對課內需要的半導體知識點有初步了解， 當你有不會的觀念，可以彙總並記錄下來，當學長姐有空會會很熱心地教導你。暑期實習生最大的活動就是專題比賽，主要會以解決課上遇到的問題進行改善，首先會在廠內進行初選，選出代表後再與不同廠的代表進行比賽。最後選出前三名與三個佳作。我的課上在二月時遇到一個產品線的 wafer良率不佳，經由多個有經驗的同事進行全面分析，終於找出問題原因並且持續追蹤，但整體流程花費大量人力與時間，，這也讓課內主管與我和帶我的學長進行討論，看能不能從中找出優化方法。最後探討出題目 WAT Early defense by AI”作為我的專題競賽題目。題目主要利用自動化機器人撈取資料庫的資料，將資料用來訓練 AI 模型，再用AI模型提前一個月就先預測最後 wafer 的 WAT trend chart，如果預測發現有異常點，就可以提前找出問題並改善，減少預測到最後生產的一個月之間的不良品產出, 這樣做能對公司節省非常巨大的成本。最後並將 WAT trend chart 定時自動寄送到相關工程師上。 這整個流程有效節省人力與時間成本並且減少大量不良品產出，最後也順利得到 8 廠 專題比賽第一名與廠外第二名。</li>
+</ul>
+<h2 id="實習收穫"><a href="#實習收穫" class="headerlink" title="實習收穫:"></a>實習收穫:</h2><ul>
+<li>在台積電工作必須要有的技能主要有幾項: 1.時間規劃，通常每個人同時會有很多事情需要處理，很常會在還沒做完就有新的工作指派給你，你必須優先完成最優先的事項，提高工作的效率。2.做任何事情前考慮做完後可能會延伸的問題，確定是符合你要的，就認真去做。3.與別人合作只講重點，減少冗字，有效溝通。4.做任何事情以誠信為主。</li>
+<li>最後我想說: 能到台積電實習是非常寶貴的經驗， 使我的心態與做事態度有著顯著的改變，推薦各位學弟妹有機會去實習就好好把握，趁學生實習了解你未來工作的情況!</li>
+</ul>
+<h2 id="實習圖片"><a href="#實習圖片" class="headerlink" title="實習圖片:"></a>實習圖片:</h2><h3 id="2021台積電暑期實習競賽第二名獎狀"><a href="#2021台積電暑期實習競賽第二名獎狀" class="headerlink" title="2021台積電暑期實習競賽第二名獎狀"></a>2021台積電暑期實習競賽第二名獎狀</h3><img src="/2021/09/03/2021%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/tsmc_intern01.jpg" class>
+<h3 id="8廠全體實習生與廠長合照"><a href="#8廠全體實習生與廠長合照" class="headerlink" title="8廠全體實習生與廠長合照"></a>8廠全體實習生與廠長合照</h3><img src="/2021/09/03/2021%E5%8F%B0%E7%A9%8D%E9%9B%BB%E6%9A%91%E6%9C%9F%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/tsmc_intern02.jpg" class>]]></content>
+      <categories>
+        <category>Jobs</category>
+      </categories>
+      <tags>
+        <tag>Intern</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20211211-1212 KStart 議題松演講心得</title>
     <url>/2021/12/15/20211211%E9%87%91%E9%96%80%E5%A4%A7%E5%AD%B8KStart%E6%BC%94%E8%AC%9B/</url>
     <content><![CDATA[<ul>
@@ -99,25 +121,30 @@
       </tags>
   </entry>
   <entry>
-    <title>2021暑假台積電實習心得</title>
-    <url>/2021/09/03/2021%E6%9A%91%E5%81%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/</url>
-    <content><![CDATA[<h2 id="實習投遞"><a href="#實習投遞" class="headerlink" title="實習投遞:"></a>實習投遞:</h2><ul>
-<li>我叫邱國哲, 目前就讀交大電子所系統組碩士二年級,因為想在學生時代能提前了解業界工作情形，因此在碩一下投遞了 2021台積電暑期實習計畫。有幸接獲Fab8 製程整合工程師面試邀約，面試當天，主管和我交談中了解我的學經歷，得知我專長為通訊、AI與邊緣運算，希望我能結合我的專長解決課上遇到的問題，並且希望在實習階段中學習半導體製程相關知識， 也出一個作業要我針對實習日程計畫與學習半導體知識的規劃提出一個簡報， 最後簡報也被主管接受並正式收到實習聘書。  </li>
+    <title>20220317美國行第3天-IN</title>
+    <url>/2022/03/18/20220317%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC3%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220317美國行第3天-IN"><a href="#20220317美國行第3天-IN" class="headerlink" title="20220317美國行第3天(IN)"></a>20220317美國行第3天(IN)</h1><h2 id="上午"><a href="#上午" class="headerlink" title="上午"></a>上午</h2><p>因想多體驗美國生活，所以 6:30 就起床做事，到7點多時突然有人進來，原來是另一個租 airbnb 的房客，是個非洲人，來在美國工作一陣子了。跟他閒聊一下後，我們走路前往路程 20 分鐘位於普渡旁邊的 target 超市 採買一些日常用品與煮飯的食材。走在美國的街道上，有一種我真的到美國的感覺，每個街景都像是美劇出現的景象，街道上牆壁的塗鴉、房子外觀、路邊的號誌等都讓我很有感觸!!! 到 target 後，能感覺到像台灣的小型家樂福，賣很多食品與一些生活用品~我們就買些雞蛋、吐司、酪梨、雞肉等回去做早午餐其中牛奶一大罐才4塊，只能說牛奶跟酒在美國一定比水便宜XD，回去 airbnb 就做酪梨蛋吐司 + 雞胸肉當我們的早午餐。</p>
+<ul>
+<li>Lafayette 街道的塗鴉牆</li>
 </ul>
-<h2 id="實習期間-7-5-–-9-3"><a href="#實習期間-7-5-–-9-3" class="headerlink" title="實習期間(7/5 – 9/3):"></a>實習期間(7/5 – 9/3):</h2><ul>
-<li>由於疫情關係，實習第一天的導覽與介紹改成線上進行，主要針對公司理念與規範進行說明，並在隔天我就到台積電 8 廠 製程整合三部進行我的實習生活，到公司後，部門秘書會給你公司手機與電腦且要你開通工作需要的權限，然後熟悉公司內部軟體。在疫情期間，公司也針對人員安全進行把控，針對同部門人員分到不同樓層，避免同個部門有人感染就會使整個部門無法運作! 另外將奇數樓層與偶數樓層人員分為紅軍與藍軍，規範吃飯時間與紅藍軍不能互相到對方樓層，且使用開會軟體 Teams 進行開會與上課! 有效減少人員接觸!首先介紹一下製程整合工程師目標是提供客戶品質良好的 wafer(晶圓)，主要工作: 1.觀測 WAT trend chart,這個 WAT trend chart顯示 wafer 的電性表現，如果發現異常電性點，必須分析該異常電性點與哪段製程有關係，並向對應製程工程師回報狀況，如果確定出是哪一道製成的機台參數所造成 wafer電性異常， 必須對該參數進行嚴格管控且對該產品線的 wafer持續追蹤。2.當 wafer生產完成轉交給客戶，客戶會將 wafer交給檢測廠進行全面檢測，並且將檢測結果回報台積電，我們對客戶回傳的檢測報告進行審視與改進。在實習期間，公司提供很多線上半導體相關課程，提供不同部門同仁可以學習到更多元的知識，且課內學長姊也會親自教學課內會需要的相關知識，因此我能夠很快對課內需要的半導體知識點有初步了解， 當你有不會的觀念，可以彙總並記錄下來，當學長姐有空會會很熱心地教導你。暑期實習生最大的活動就是專題比賽，主要會以解決課上遇到的問題進行改善，首先會在廠內進行初選，選出代表後再與不同廠的代表進行比賽。最後選出前三名與三個佳作。我的課上在二月時遇到一個產品線的 wafer良率不佳，經由多個有經驗的同事進行全面分析，終於找出問題原因並且持續追蹤，但整體流程花費大量人力與時間，，這也讓課內主管與我和帶我的學長進行討論，看能不能從中找出優化方法。最後探討出題目 WAT Early defense by AI”作為我的專題競賽題目。題目主要利用自動化機器人撈取資料庫的資料，將資料用來訓練 AI 模型，再用AI模型提前一個月就先預測最後 wafer 的 WAT trend chart，如果預測發現有異常點，就可以提前找出問題並改善，減少預測到最後生產的一個月之間的不良品產出, 這樣做能對公司節省非常巨大的成本。最後並將 WAT trend chart 定時自動寄送到相關工程師上。 這整個流程有效節省人力與時間成本並且減少大量不良品產出，最後也順利得到 8 廠 專題比賽第一名與廠外第二名。</li>
+<img src="/2022/03/18/20220317%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC3%E5%A4%A9-IN/graffiti_wall.jpg" class>
+
+<ul>
+<li>Lafayette 街景</li>
 </ul>
-<h2 id="實習收穫"><a href="#實習收穫" class="headerlink" title="實習收穫:"></a>實習收穫:</h2><ul>
-<li>在台積電工作必須要有的技能主要有幾項: 1.時間規劃，通常每個人同時會有很多事情需要處理，很常會在還沒做完就有新的工作指派給你，你必須優先完成最優先的事項，提高工作的效率。2.做任何事情前考慮做完後可能會延伸的問題，確定是符合你要的，就認真去做。3.與別人合作只講重點，減少冗字，有效溝通。4.做任何事情以誠信為主。</li>
-<li>最後我想說: 能到台積電實習是非常寶貴的經驗， 使我的心態與做事態度有著顯著的改變，推薦各位學弟妹有機會去實習就好好把握，趁學生實習了解你未來工作的情況!</li>
+<img src="/2022/03/18/20220317%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC3%E5%A4%A9-IN/lafayette_street.jpg" class>
+
+<h2 id="下午"><a href="#下午" class="headerlink" title="下午"></a>下午</h2><p>吃完飯後，我們就開始查要去哪裡玩，最後決定到 Purdue 附近走走，首先經在火車上的橋，到對面，然後附近就超多餐廳開始營業了，我們進入華人超市，能發現東西大部分都是台灣的兩倍以上且主要以大陸與國食品居多!!! 在來就進入大學城裡面啦!!!我們先往 Purdue 側門拍照，再來就校園裡的建築與正門，只能說校園真的大，運動量很足，最後就前到書局看看有什麼紀念品可以買的，後來決定之後再買XD 回到 Airbnb 後，我就洗個澡，計帳然後開始寫日記~ 最後因為真的很累就在沙發區睡著啦，睡了3個多小時，起床後就自己煮個晚餐: 維利炸醬義大利麵，然後就度過今天啦</p>
+<ul>
+<li>Purdue 正門</li>
 </ul>
-<h2 id="實習圖片"><a href="#實習圖片" class="headerlink" title="實習圖片:"></a>實習圖片:</h2><h3 id="2021台積電暑期實習競賽第二名獎狀"><a href="#2021台積電暑期實習競賽第二名獎狀" class="headerlink" title="2021台積電暑期實習競賽第二名獎狀"></a>2021台積電暑期實習競賽第二名獎狀</h3><img src="/2021/09/03/2021%E6%9A%91%E5%81%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/tsmc_intern01.jpg" class>
-<h3 id="8廠全體實習生與廠長合照"><a href="#8廠全體實習生與廠長合照" class="headerlink" title="8廠全體實習生與廠長合照"></a>8廠全體實習生與廠長合照</h3><img src="/2021/09/03/2021%E6%9A%91%E5%81%87%E5%8F%B0%E7%A9%8D%E9%9B%BB%E5%AF%A6%E7%BF%92%E5%BF%83%E5%BE%97/tsmc_intern02.jpg" class>]]></content>
+<img src="/2022/03/18/20220317%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC3%E5%A4%A9-IN/purdue_main_entrance.jpg" class>
+]]></content>
       <categories>
-        <category>Jobs</category>
+        <category>Exchange</category>
       </categories>
       <tags>
-        <tag>Intern</tag>
+        <tag>America</tag>
       </tags>
   </entry>
   <entry>
@@ -159,33 +186,6 @@
 <li>剛來到美國的人可以說 It’s my first time come to America, I want to experience the culture here. 這樣的話 95%的美國朋友會很熱情對待你</li>
 <li>到餐廳點餐時不知道要吃什麼的時候可以說：It’s my first time come to the U.S. and I want to try the food here! Do you have any recommendations?</li>
 </ol>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20220317美國行第3天-IN</title>
-    <url>/2022/03/18/20220317%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC3%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220317美國行第3天-IN"><a href="#20220317美國行第3天-IN" class="headerlink" title="20220317美國行第3天(IN)"></a>20220317美國行第3天(IN)</h1><h2 id="上午"><a href="#上午" class="headerlink" title="上午"></a>上午</h2><p>因想多體驗美國生活，所以 6:30 就起床做事，到7點多時突然有人進來，原來是另一個租 airbnb 的房客，是個非洲人，來在美國工作一陣子了。跟他閒聊一下後，我們走路前往路程 20 分鐘位於普渡旁邊的 target 超市 採買一些日常用品與煮飯的食材。走在美國的街道上，有一種我真的到美國的感覺，每個街景都像是美劇出現的景象，街道上牆壁的塗鴉、房子外觀、路邊的號誌等都讓我很有感觸!!! 到 target 後，能感覺到像台灣的小型家樂福，賣很多食品與一些生活用品~我們就買些雞蛋、吐司、酪梨、雞肉等回去做早午餐其中牛奶一大罐才4塊，只能說牛奶跟酒在美國一定比水便宜XD，回去 airbnb 就做酪梨蛋吐司 + 雞胸肉當我們的早午餐。</p>
-<ul>
-<li>Lafayette 街道的塗鴉牆</li>
-</ul>
-<img src="/2022/03/18/20220317%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC3%E5%A4%A9-IN/graffiti_wall.jpg" class>
-
-<ul>
-<li>Lafayette 街景</li>
-</ul>
-<img src="/2022/03/18/20220317%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC3%E5%A4%A9-IN/lafayette_street.jpg" class>
-
-<h2 id="下午"><a href="#下午" class="headerlink" title="下午"></a>下午</h2><p>吃完飯後，我們就開始查要去哪裡玩，最後決定到 Purdue 附近走走，首先經在火車上的橋，到對面，然後附近就超多餐廳開始營業了，我們進入華人超市，能發現東西大部分都是台灣的兩倍以上且主要以大陸與國食品居多!!! 在來就進入大學城裡面啦!!!我們先往 Purdue 側門拍照，再來就校園裡的建築與正門，只能說校園真的大，運動量很足，最後就前到書局看看有什麼紀念品可以買的，後來決定之後再買XD 回到 Airbnb 後，我就洗個澡，計帳然後開始寫日記~ 最後因為真的很累就在沙發區睡著啦，睡了3個多小時，起床後就自己煮個晚餐: 維利炸醬義大利麵，然後就度過今天啦</p>
-<ul>
-<li>Purdue 正門</li>
-</ul>
-<img src="/2022/03/18/20220317%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC3%E5%A4%A9-IN/purdue_main_entrance.jpg" class>
 ]]></content>
       <categories>
         <category>Exchange</category>
@@ -320,23 +320,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20220326美國行第12天-IN</title>
-    <url>/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220326美國行第12天-IN"><a href="#20220326美國行第12天-IN" class="headerlink" title="20220326美國行第12天(IN)"></a>20220326美國行第12天(IN)</h1><p>今天早起特別的冷，原來是外面下雪啦，開到窗外下雪馬上到窗外體驗下雪的氛圍，第一次看到雪真的超級興奮馬上拍了好幾張照片，然後在家研究下禮拜二到四前往印第安納州市區看NBA還有周圍旅遊等，大約11點的時候就到外面好好體驗下雪的氛圍，在外面可以看到草地上或者車上很容易有積雪，我就到有較多積雪的草地玩雪拍照，最後也因為想看看下雪的 Purdue 就前往學校啦，路上真的很冷，手很容易痛，首先我先去橋下看河，河真的很壯觀，非常的大，然後就前往學校，一進到學校門口，可以看到非常漂亮的積雪，隨手一拍都是美景，然後我就前往四處晃晃，其中也有看到 Purdue 先生的銅像，就一起合照然後到電機系館晃晃，最後就走回來啦！回來後馬上洗熱水澡然後確定好下禮拜的住宿與交通就開始做論文的研究，雖然有點卡關，但只好努力了💪然後就煮牛排跟麵當午餐，晚餐吃牛排跟生菜🥬結束今天啦❤️</p>
-<ul>
-<li>Airbnb 外面的雪景<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/airbnb_outside.jpg" class></li>
-<li>與 Purdue 先生自拍<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/selfiewithmrpurdue.jpg" class></li>
-<li>下雪的 Purdue<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/snowcampus.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20220325美國行第11天-IN</title>
     <url>/2022/03/25/20220325%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC11%E5%A4%A9-IN/</url>
     <content><![CDATA[<h1 id="20220325美國行第11天-IN"><a href="#20220325美國行第11天-IN" class="headerlink" title="20220325美國行第11天(IN)"></a>20220325美國行第11天(IN)</h1><p>今天早起做些論文研究，中午的時候想說走路去 BookStore 買一些紀念品順便運動，但由於天氣太冷了，後來就到 CityBus Station 搭 4B 往 Purdue Campus，由於我們在錯站下車，就晃到動物科學系館晃晃，然後最後到我們3/16晚上一開始搭 Suttle Bus 到的 Purdue West BookStore 逛逛，這間比起我們一開始去的離我們住的地方的書店商品種類多超多的，最後我買2個鑰匙圈，然後就在學校附近晃晃，路上看到有一群穿奇裝異服的群體在路上走來走去，還有辦在學校辦車聚的，只能說大學的校園生活真的多彩多姿，後來就到在側門的 BookStore 買一件 Purdue 帽T，還有去 Target 買牛排、辣的奇多跟 墨西哥起司Chips 沾醬就走回去拉。回去馬上試沾醬，蠻好吃的!! 再來就在家做一些論文研究，晚餐煎牛排跟煮泡麵，吃超飽的，然後就看 NBA 讀點書就結束今天拉</p>
@@ -353,32 +336,13 @@
       </tags>
   </entry>
   <entry>
-    <title>20220327美國行第13天-IN</title>
-    <url>/2022/03/27/20220327%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC13%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220327美國行第13天-IN"><a href="#20220327美國行第13天-IN" class="headerlink" title="20220327美國行第13天(IN)"></a>20220327美國行第13天(IN)</h1><p>今天早起做論文，有點卡關，但還是繼續努力，然後與 Russell 通電話聊一下近況，中午就煎牛排吃! 下午到學校附近走走運動兩個小時，這次進去到 Purdue’s Stewart center 晃晃，裡面有 Teams Store 、音樂廳還有位置讓學生看球賽與讀書，非常愜意! 然後大約下午3點就回家繼續做研究並且在6點的時候前往知名的墨西哥餐廳 Chipotle 吃飯，一進去人超級多的，我點的是 Bowl with brown rice, beef, hot salsa, both black and pinto beans, cheese, lettuce and grac, 並且要一個水杯! 坐下來開始嘗，只能說健康又好吃，調味適中且口感很好爾且價錢大約13美金，只能說下次還會回訪的店! 推推!</p>
-<p>吃完後我們就前往 Target 買一些日常用品與食物，就走回去拉</p>
+    <title>20220326美國行第12天-IN</title>
+    <url>/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220326美國行第12天-IN"><a href="#20220326美國行第12天-IN" class="headerlink" title="20220326美國行第12天(IN)"></a>20220326美國行第12天(IN)</h1><p>今天早起特別的冷，原來是外面下雪啦，開到窗外下雪馬上到窗外體驗下雪的氛圍，第一次看到雪真的超級興奮馬上拍了好幾張照片，然後在家研究下禮拜二到四前往印第安納州市區看NBA還有周圍旅遊等，大約11點的時候就到外面好好體驗下雪的氛圍，在外面可以看到草地上或者車上很容易有積雪，我就到有較多積雪的草地玩雪拍照，最後也因為想看看下雪的 Purdue 就前往學校啦，路上真的很冷，手很容易痛，首先我先去橋下看河，河真的很壯觀，非常的大，然後就前往學校，一進到學校門口，可以看到非常漂亮的積雪，隨手一拍都是美景，然後我就前往四處晃晃，其中也有看到 Purdue 先生的銅像，就一起合照然後到電機系館晃晃，最後就走回來啦！回來後馬上洗熱水澡然後確定好下禮拜的住宿與交通就開始做論文的研究，雖然有點卡關，但只好努力了💪然後就煮牛排跟麵當午餐，晚餐吃牛排跟生菜🥬結束今天啦❤️</p>
 <ul>
-<li>With Purdue P 合照  <img src="/2022/03/27/20220327%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC13%E5%A4%A9-IN/selfiewithp.jpg" class></li>
-<li>Chipotle 店內  <img src="/2022/03/27/20220327%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC13%E5%A4%A9-IN/inside_chipotle.jpg" class></li>
-<li>Bowl  <img src="/2022/03/27/20220327%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC13%E5%A4%A9-IN/bowl.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20220328美國行第14天-IN</title>
-    <url>/2022/03/28/20220328%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC14%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220328美國行第14天-IN"><a href="#20220328美國行第14天-IN" class="headerlink" title="20220328美國行第14天(IN)"></a>20220328美國行第14天(IN)</h1><p>今天早起做研究，因為明天就要出發去印第安那州 Downtown 玩(0329-0331)，主要是想說去看 NBA 溜馬 vs 金塊，順便住個兩天逛逛 downtown，應該會想要去看 Zoo 和一些博物館!</p>
-<p>中午煎牛排跟泡麵，吃完後就到外面運動一小時，這次主要往住宿的後面走走，因為之前都往 Purdue 那邊，這次想要換不同的地方! 能看到更多有特色房子跟建築，街景也是非常美麗，運動回來2點就開始繼續做研究，並且繼續煮牛排晚餐，只能說來美國就是要多吃牛排拉!</p>
-<p>最後就收拾明天要去旅行的行李拉~~</p>
-<ul>
-<li>住宿後面 Lafatte 街道<img src="/2022/03/28/20220328%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC14%E5%A4%A9-IN/lafayette_street1.jpg" class></li>
-<li>漂亮的教堂<img src="/2022/03/28/20220328%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC14%E5%A4%A9-IN/lafayette_church.jpg" class></li>
+<li>Airbnb 外面的雪景<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/airbnb_outside.jpg" class></li>
+<li>與 Purdue 先生自拍<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/selfiewithmrpurdue.jpg" class></li>
+<li>下雪的 Purdue<img src="/2022/03/26/20220326%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC12%E5%A4%A9-IN/snowcampus.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -407,6 +371,24 @@
       </tags>
   </entry>
   <entry>
+    <title>20220327美國行第13天-IN</title>
+    <url>/2022/03/27/20220327%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC13%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220327美國行第13天-IN"><a href="#20220327美國行第13天-IN" class="headerlink" title="20220327美國行第13天(IN)"></a>20220327美國行第13天(IN)</h1><p>今天早起做論文，有點卡關，但還是繼續努力，然後與 Russell 通電話聊一下近況，中午就煎牛排吃! 下午到學校附近走走運動兩個小時，這次進去到 Purdue’s Stewart center 晃晃，裡面有 Teams Store 、音樂廳還有位置讓學生看球賽與讀書，非常愜意! 然後大約下午3點就回家繼續做研究並且在6點的時候前往知名的墨西哥餐廳 Chipotle 吃飯，一進去人超級多的，我點的是 Bowl with brown rice, beef, hot salsa, both black and pinto beans, cheese, lettuce and grac, 並且要一個水杯! 坐下來開始嘗，只能說健康又好吃，調味適中且口感很好爾且價錢大約13美金，只能說下次還會回訪的店! 推推!</p>
+<p>吃完後我們就前往 Target 買一些日常用品與食物，就走回去拉</p>
+<ul>
+<li>With Purdue P 合照  <img src="/2022/03/27/20220327%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC13%E5%A4%A9-IN/selfiewithp.jpg" class></li>
+<li>Chipotle 店內  <img src="/2022/03/27/20220327%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC13%E5%A4%A9-IN/inside_chipotle.jpg" class></li>
+<li>Bowl  <img src="/2022/03/27/20220327%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC13%E5%A4%A9-IN/bowl.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20220330美國行第16天-Indy</title>
     <url>/2022/04/01/20220330%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC16%E5%A4%A9-Indy/</url>
     <content><![CDATA[<h1 id="20220330美國行第16天-Indy"><a href="#20220330美國行第16天-Indy" class="headerlink" title="20220330美國行第16天(Indy)"></a>20220330美國行第16天(Indy)</h1><p>今天早上大概7點多起床，準備一下8點多下樓吃 Best Western Hotel提供的早餐，主要是肉腸、炒蛋還有甜甜圈 牛奶麥片等，還算好吃！再來就規劃要去開 motor museum, 這是全世界最大的賽車場，超期待的！我們搭 IndyGo 前往，一到 museum 馬上衝去草皮看賽車🏎️練習，只能說配合著聲浪與賽車的速度，一大享受啦，後來我們就買票15塊進去賽車博物館裡面,裡面可以看到很多歷年來的冠軍賽車還有winner，非常的有紀念價值，後來就到紀念品區買個模型車、鑰匙圈還有輪胎橡皮擦來收藏，特別的是當我們離開賽車博物館，剛好看到去年的winner與他掛在賽車場上的壁報合照，超酷的！再來我們就前往印第安納博物館參觀，裡面主要從遠古時代一直到現代的介紹，可以看到以前的動物雕像，也可以理解古代到現在的歷史，還有很多互動體驗，像是體驗鋸木頭、聞古代食材的味道還有製作硬幣等等，超級有趣～非常值得去參觀，再來我們就沿著 canal walk走，愜意的散步真的超放鬆的！然後想要去買點吃的喝的，我們就前往附近的 Kroger，這個是一間食材為主的賣場，很好逛！我就買了洋芋片、特價1元的餅乾還有果汁就離開啦，離開後我們前往市區附近的Five Guys吃晚餐，這次一樣點 Bacon cheese burger all the way，這次點餐就變得很流暢且更享受在食物上！超飽喝足後就前往hotel休息下就準備去看NBA啦🏀這次比賽的是溜馬對金塊！一進去體育館內就感受到滿滿的人潮與壯觀的球場，我迫不及待的拍了超多照片跟影片，從以前就想要能親自到美國看NBA終於圓夢啦，我們在球場拍完照片後就到周圍的轉盤遊戲玩個，拿到一個溜馬隊的護唇膏😍再來就到我的座位準備看比賽啦！我原先座位在section 224 8 row 1 seats附近，後來因為前面沒人就往更前面坐啦，然後開始看精彩的比賽，比賽期間不管是暫停還是休息時間都會有很多與球迷互動的活動，像是噴毛巾或是空降禮物等等讓球迷很有參與感，還有就是只要是客隊罰球或是對主隊有不好的肢體動作，球迷都會很團結的挺主隊！整體的比賽一開始金塊隊贏很多，但是在中後段溜馬開始慢慢追上，然後就有比分接近的精彩片段，而且還有超多肢體衝突的，雙方都打出火藥味，最後一節由於溜馬隊的防守與得分火力下降，最後118:125輸給金塊，只能說盡力啦！然後我們就在球場晃晃拍照買了紀念品就回家啦！我總共買了兩件短袖😍紀念第一次來NBA,今年超開心🥳我不會忘記這天的美好🏀</p>
@@ -415,6 +397,24 @@
 <li>印第安那博物館<img src="/2022/04/01/20220330%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC16%E5%A4%A9-Indy/elephant.jpg" class> </li>
 <li>溜馬隊主場合照<img src="/2022/04/01/20220330%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC16%E5%A4%A9-Indy/nba_selfie.jpg" class></li>
 <li>溜馬 vs 金塊<img src="/2022/04/01/20220330%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC16%E5%A4%A9-Indy/nba_court.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220328美國行第14天-IN</title>
+    <url>/2022/03/28/20220328%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC14%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220328美國行第14天-IN"><a href="#20220328美國行第14天-IN" class="headerlink" title="20220328美國行第14天(IN)"></a>20220328美國行第14天(IN)</h1><p>今天早起做研究，因為明天就要出發去印第安那州 Downtown 玩(0329-0331)，主要是想說去看 NBA 溜馬 vs 金塊，順便住個兩天逛逛 downtown，應該會想要去看 Zoo 和一些博物館!</p>
+<p>中午煎牛排跟泡麵，吃完後就到外面運動一小時，這次主要往住宿的後面走走，因為之前都往 Purdue 那邊，這次想要換不同的地方! 能看到更多有特色房子跟建築，街景也是非常美麗，運動回來2點就開始繼續做研究，並且繼續煮牛排晚餐，只能說來美國就是要多吃牛排拉!</p>
+<p>最後就收拾明天要去旅行的行李拉~~</p>
+<ul>
+<li>住宿後面 Lafatte 街道<img src="/2022/03/28/20220328%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC14%E5%A4%A9-IN/lafayette_street1.jpg" class></li>
+<li>漂亮的教堂<img src="/2022/03/28/20220328%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC14%E5%A4%A9-IN/lafayette_church.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -567,12 +567,11 @@
       </tags>
   </entry>
   <entry>
-    <title>20220409美國行第26天-IN</title>
-    <url>/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220409美國行第26天-IN"><a href="#20220409美國行第26天-IN" class="headerlink" title="20220409美國行第26天(IN)"></a>20220409美國行第26天(IN)</h1><p>今天早上剪輯 <strong>YT 影片：Indy 旅遊</strong> 中午吃完飯就搭 City Bus 前往 Dick’s，由於之前逛過這次就很快逛完然後搭車前往 Lafayette Pavilion，這邊就有很多店家，主要是家居裝飾與雜貨店，算是好逛的一個區，其中我去一間叫做 Five Below，我買了一些零食餅乾去結帳，要付款前店員用很快的語速講了一長串話，好像是要我 donate 錢什麼的，我沒聽很清楚就說 pardon me，結果他說 never mind 並且對另一個店員搖頭，讓我感覺到非常不舒服！最後就結完帳就到繼續讀其他店逛，最後到 Fresh Thyme Market 買菜然後回家煮牛排跟咖哩麵，結束今天~</p>
+    <title>20220410美國行第27天-IN</title>
+    <url>/2022/04/11/20220410%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC27%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220410美國行第27天-IN"><a href="#20220410美國行第27天-IN" class="headerlink" title="20220410美國行第27天(IN)"></a>20220410美國行第27天(IN)</h1><p>今天早上剪影片”NBA Pacers v.s 76ers” 然後下午與小阿姨討論之後 5/5 ~ 6/8 之間的大致行程，會先從 Chicago 機場(ORD) → Seattle → SFO → LA → Huston → Dallas → Austin → San Antonio → Washion DC → New York → Boston，然後晚上主要針對各個城市的景點與交通進行更深的討論!</p>
 <ul>
-<li>Lafayette Pavilions<img src="/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/lafayette_pavilions.jpg" class></li>
-<li>Fresh Thyme Market<img src="/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/fresh_thyme_market.jpg" class></li>
+<li>討論行程<img src="/2022/04/11/20220410%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC27%E5%A4%A9-IN/discuss_schedule.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -583,11 +582,12 @@
       </tags>
   </entry>
   <entry>
-    <title>20220410美國行第27天-IN</title>
-    <url>/2022/04/11/20220410%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC27%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220410美國行第27天-IN"><a href="#20220410美國行第27天-IN" class="headerlink" title="20220410美國行第27天(IN)"></a>20220410美國行第27天(IN)</h1><p>今天早上剪影片”NBA Pacers v.s 76ers” 然後下午與小阿姨討論之後 5/5 ~ 6/8 之間的大致行程，會先從 Chicago 機場(ORD) → Seattle → SFO → LA → Huston → Dallas → Austin → San Antonio → Washion DC → New York → Boston，然後晚上主要針對各個城市的景點與交通進行更深的討論!</p>
+    <title>20220409美國行第26天-IN</title>
+    <url>/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220409美國行第26天-IN"><a href="#20220409美國行第26天-IN" class="headerlink" title="20220409美國行第26天(IN)"></a>20220409美國行第26天(IN)</h1><p>今天早上剪輯 <strong>YT 影片：Indy 旅遊</strong> 中午吃完飯就搭 City Bus 前往 Dick’s，由於之前逛過這次就很快逛完然後搭車前往 Lafayette Pavilion，這邊就有很多店家，主要是家居裝飾與雜貨店，算是好逛的一個區，其中我去一間叫做 Five Below，我買了一些零食餅乾去結帳，要付款前店員用很快的語速講了一長串話，好像是要我 donate 錢什麼的，我沒聽很清楚就說 pardon me，結果他說 never mind 並且對另一個店員搖頭，讓我感覺到非常不舒服！最後就結完帳就到繼續讀其他店逛，最後到 Fresh Thyme Market 買菜然後回家煮牛排跟咖哩麵，結束今天~</p>
 <ul>
-<li>討論行程<img src="/2022/04/11/20220410%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC27%E5%A4%A9-IN/discuss_schedule.jpg" class></li>
+<li>Lafayette Pavilions<img src="/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/lafayette_pavilions.jpg" class></li>
+<li>Fresh Thyme Market<img src="/2022/04/10/20220409%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC26%E5%A4%A9-IN/fresh_thyme_market.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -614,21 +614,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20220412美國行第29天-IN</title>
-    <url>/2022/04/12/20220412%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC29%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220412美國行第29天-IN"><a href="#20220412美國行第29天-IN" class="headerlink" title="20220412美國行第29天(IN)"></a>20220412美國行第29天(IN)</h1><p>由於昨晚比較晚睡，今天大約快11點起床，起床後煮午餐，然後開始一整天的研究之旅，這次主要設定 Vault 與 Database 的設定，原本在 rotation_statement 的地方卡很久，今天解掉拉 &gt;&lt; 開心的，晚上煮義大利麵，吃完後就繼續奮鬥，只能說今天是高效率的一天!</p>
-<ul>
-<li>研究<img src="/2022/04/12/20220412%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC29%E5%A4%A9-IN/study.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20220413美國行第30天-IN</title>
     <url>/2022/04/13/20220413%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC30%E5%A4%A9-IN/</url>
     <content><![CDATA[<h1 id="20220413美國行第30天-IN"><a href="#20220413美國行第30天-IN" class="headerlink" title="20220413美國行第30天(IN)"></a>20220413美國行第30天(IN)</h1><p>今天本來要到學校裡面讀書，但看天氣預報，發先大概率會下一整天的雨，只好在租屋處做事~ 延續昨天的研究，今天主要撰寫一些程式與 Vault 互動，持續努力，期盼能夠早日完成! </p>
@@ -644,13 +629,11 @@
       </tags>
   </entry>
   <entry>
-    <title>20220415美國行第32天-IN</title>
-    <url>/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220415美國行第32天-IN"><a href="#20220415美國行第32天-IN" class="headerlink" title="20220415美國行第32天(IN)"></a>20220415美國行第32天(IN)</h1><p>今天吃完午餐後看到外面天氣很好，就到學校附近走走散心! 這次走到 DQ 吃他們最有名的 Blizzard ， 我點的口味是 Oreo Dirt Pie ，裡面是 Oreo 加上小熊軟糖! 超級特別的也算是好吃。然後就走到 Target 買瓶果汁就回租屋處，晚上看了一個綜藝節目 “來吧營業中”，主要是在講一群藝人找一個老舊的屋子重新打掃、裝修到最後營業餐廳! 蠻好看的</p>
+    <title>20220412美國行第29天-IN</title>
+    <url>/2022/04/12/20220412%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC29%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220412美國行第29天-IN"><a href="#20220412美國行第29天-IN" class="headerlink" title="20220412美國行第29天(IN)"></a>20220412美國行第29天(IN)</h1><p>由於昨晚比較晚睡，今天大約快11點起床，起床後煮午餐，然後開始一整天的研究之旅，這次主要設定 Vault 與 Database 的設定，原本在 rotation_statement 的地方卡很久，今天解掉拉 &gt;&lt; 開心的，晚上煮義大利麵，吃完後就繼續奮鬥，只能說今天是高效率的一天!</p>
 <ul>
-<li>DQ<img src="/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/dq_store.jpg" class>
-<img src="/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/blizzard.jpg" class></li>
-<li>學校的草坪<img src="/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/school_lawn.jpg" class></li>
+<li>研究<img src="/2022/04/12/20220412%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC29%E5%A4%A9-IN/study.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -683,6 +666,23 @@
     <content><![CDATA[<h1 id="20220416美國行第33天-IN"><a href="#20220416美國行第33天-IN" class="headerlink" title="20220416美國行第33天(IN)"></a>20220416美國行第33天(IN)</h1><p>今天一樣做研究，這次著重在完成初版論文簡報，參考學長姐的報告格式與順序然後構思自己的研究呈現，大致上完成整體的架構，接下來就是豐富內容與完成實驗! 今天都待在住宿的地方哈哈~</p>
 <ul>
 <li>Airbnb 內照片<img src="/2022/04/16/20220416%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC33%E5%A4%A9-IN/airbnb_kitchen.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220415美國行第32天-IN</title>
+    <url>/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220415美國行第32天-IN"><a href="#20220415美國行第32天-IN" class="headerlink" title="20220415美國行第32天(IN)"></a>20220415美國行第32天(IN)</h1><p>今天吃完午餐後看到外面天氣很好，就到學校附近走走散心! 這次走到 DQ 吃他們最有名的 Blizzard ， 我點的口味是 Oreo Dirt Pie ，裡面是 Oreo 加上小熊軟糖! 超級特別的也算是好吃。然後就走到 Target 買瓶果汁就回租屋處，晚上看了一個綜藝節目 “來吧營業中”，主要是在講一群藝人找一個老舊的屋子重新打掃、裝修到最後營業餐廳! 蠻好看的</p>
+<ul>
+<li>DQ<img src="/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/dq_store.jpg" class>
+<img src="/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/blizzard.jpg" class></li>
+<li>學校的草坪<img src="/2022/04/15/20220415%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC32%E5%A4%A9-IN/school_lawn.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -822,12 +822,13 @@
       </tags>
   </entry>
   <entry>
-    <title>20220425美國行第42天-IN</title>
-    <url>/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220425美國行第42天-IN"><a href="#20220425美國行第42天-IN" class="headerlink" title="20220425美國行第42天(IN)"></a>20220425美國行第42天(IN)</h1><p>今天早起就撞見新來的兩個年輕黑人 Roommates，算是和善的，但是他們會在陽台上抽菸! 只能說超級臭☹️然後今天主要在租屋處做研究，因為在沒多久就要離開 Lafayette 去其他地方! 晚上的話繼續做研究，Roommates 則在客廳看電影，結束今天!</p>
+    <title>20220424美國行第41天-Chicago</title>
+    <url>/2022/04/25/20220424%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC41%E5%A4%A9-Chicago/</url>
+    <content><![CDATA[<h1 id="20220424美國行第41天-Chicago"><a href="#20220424美國行第41天-Chicago" class="headerlink" title="20220424美國行第41天(Chicago)"></a>20220424美國行第41天(Chicago)</h1><p>今天早起與 Russell 談論近況與確認之後的行程，打算下禮拜找 postdoctor 和 Chris 報告我們的論文並且與 Prof.Hank 更新最新論文情況！然後我們就先 check out 將東西放在車上搭CTA 前往 China Town，逛起來很有之前去中國旅遊的感覺，然後就前往科學工業博物館，裡面有很多互動的遊戲，更能體會科學的好玩，最有印象的是人造颱風！整個超酷的👍再來就搭 CTA 回去開車，但是由於其中有 bus 連續沒來兩班，我們就改搭捷運再走20分鐘回去，然後就前往 Fashion outlet，這間是一個室內的百貨，有很多高級品牌像是 Gucci、 Bubbery等蠻好逛的，我也到 UA 的店買了一條15美的短褲！ 再來就加油然後開回 lafayette。 我們先往 west lafayette 的 Walmart 買接下來的一個禮拜的食物然後回到租屋處放東西然後還車再搭 Uber 回去</p>
 <ul>
-<li>好吃的冰淇淋<img src="/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/ice_cream.jpg" class></li>
-<li>Roommates 看電影<img src="/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/roommates.jpg" class></li>
+<li>China Town<img src="/2022/04/25/20220424%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC41%E5%A4%A9-Chicago/chinatown.jpg" class></li>
+<li>Sience musum<img src="/2022/04/25/20220424%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC41%E5%A4%A9-Chicago/science_museum.jpg" class></li>
+<li>Fashion outlet<img src="/2022/04/25/20220424%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC41%E5%A4%A9-Chicago/fashion_outlet.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -838,13 +839,12 @@
       </tags>
   </entry>
   <entry>
-    <title>20220424美國行第41天-Chicago</title>
-    <url>/2022/04/25/20220424%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC41%E5%A4%A9-Chicago/</url>
-    <content><![CDATA[<h1 id="20220424美國行第41天-Chicago"><a href="#20220424美國行第41天-Chicago" class="headerlink" title="20220424美國行第41天(Chicago)"></a>20220424美國行第41天(Chicago)</h1><p>今天早起與 Russell 談論近況與確認之後的行程，打算下禮拜找 postdoctor 和 Chris 報告我們的論文並且與 Prof.Hank 更新最新論文情況！然後我們就先 check out 將東西放在車上搭CTA 前往 China Town，逛起來很有之前去中國旅遊的感覺，然後就前往科學工業博物館，裡面有很多互動的遊戲，更能體會科學的好玩，最有印象的是人造颱風！整個超酷的👍再來就搭 CTA 回去開車，但是由於其中有 bus 連續沒來兩班，我們就改搭捷運再走20分鐘回去，然後就前往 Fashion outlet，這間是一個室內的百貨，有很多高級品牌像是 Gucci、 Bubbery等蠻好逛的，我也到 UA 的店買了一條15美的短褲！ 再來就加油然後開回 lafayette。 我們先往 west lafayette 的 Walmart 買接下來的一個禮拜的食物然後回到租屋處放東西然後還車再搭 Uber 回去</p>
+    <title>20220425美國行第42天-IN</title>
+    <url>/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220425美國行第42天-IN"><a href="#20220425美國行第42天-IN" class="headerlink" title="20220425美國行第42天(IN)"></a>20220425美國行第42天(IN)</h1><p>今天早起就撞見新來的兩個年輕黑人 Roommates，算是和善的，但是他們會在陽台上抽菸! 只能說超級臭☹️然後今天主要在租屋處做研究，因為在沒多久就要離開 Lafayette 去其他地方! 晚上的話繼續做研究，Roommates 則在客廳看電影，結束今天!</p>
 <ul>
-<li>China Town<img src="/2022/04/25/20220424%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC41%E5%A4%A9-Chicago/chinatown.jpg" class></li>
-<li>Sience musum<img src="/2022/04/25/20220424%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC41%E5%A4%A9-Chicago/science_museum.jpg" class></li>
-<li>Fashion outlet<img src="/2022/04/25/20220424%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC41%E5%A4%A9-Chicago/fashion_outlet.jpg" class></li>
+<li>好吃的冰淇淋<img src="/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/ice_cream.jpg" class></li>
+<li>Roommates 看電影<img src="/2022/04/25/20220425%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC42%E5%A4%A9-IN/roommates.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -955,21 +955,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20220503美國行第50天-IN</title>
-    <url>/2022/05/03/20220503%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC50%E5%A4%A9-IN/</url>
-    <content><![CDATA[<h1 id="20220503美國行第50天-IN"><a href="#20220503美國行第50天-IN" class="headerlink" title="20220503美國行第50天(IN)"></a>20220503美國行第50天(IN)</h1><p>由於前幾天出去外面運動，今天早起全身有點痠痛，準備整天待在住宿地方做事，今天主要完成兩部 YT Film: “芝加哥旅遊”和 ”芝加哥景點”，還有學習財經與供應鏈產業相關知識! 另外準備明天要與 Chris 報告的 Thesis PPT 且打算開始撰寫論文!</p>
-<ul>
-<li>剪片<img src="/2022/05/03/20220503%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC50%E5%A4%A9-IN/edit_film.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20220502美國行第49天-IN</title>
     <url>/2022/05/02/20220502%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC49%E5%A4%A9-IN/</url>
     <content><![CDATA[<h1 id="20220502美國行第49天-IN"><a href="#20220502美國行第49天-IN" class="headerlink" title="20220502美國行第49天(IN)"></a>20220502美國行第49天(IN)</h1><p>今天約10點起床，然後吃完早餐後前往 Rxxx(xxx可以自行填入)r Hair Care 理髮，價錢為 25 美金，來自中國大嬸開的店，店內環境相比台灣 100 元剪髮差勁很多，更不能比台灣相同價位的剪髮! 輪到我剪髮的時候，大嬸的態度也是沒有很和善，提供他我以前剪髮的圖片，他直說你現在無法剪成這樣，然後就照他意思剪，最後小費沒有給到他的期待，還直接爆氣說你可以去其他地方剪，只能說非常糟糕的一間店! 再來就前往 Target 購買這幾天要吃的食物，<br>然後就回到新的 Airbnb 煮飯，然後做一些自己的事情後，下午前往 CVS 買我最愛吃的巧克力，然後就回去! 晚上主要研究虛擬貨幣投資與剪片結束美好的一天</p>
@@ -998,6 +983,21 @@
 <ul>
 <li>Meeting會議室<img src="/2022/05/04/20220504%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC51%E5%A4%A9-IN/meeting_room.jpg" class> </li>
 <li>Bye! Purdue<img src="/2022/05/04/20220504%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC51%E5%A4%A9-IN/chris_starbuck.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220503美國行第50天-IN</title>
+    <url>/2022/05/03/20220503%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC50%E5%A4%A9-IN/</url>
+    <content><![CDATA[<h1 id="20220503美國行第50天-IN"><a href="#20220503美國行第50天-IN" class="headerlink" title="20220503美國行第50天(IN)"></a>20220503美國行第50天(IN)</h1><p>由於前幾天出去外面運動，今天早起全身有點痠痛，準備整天待在住宿地方做事，今天主要完成兩部 YT Film: “芝加哥旅遊”和 ”芝加哥景點”，還有學習財經與供應鏈產業相關知識! 另外準備明天要與 Chris 報告的 Thesis PPT 且打算開始撰寫論文!</p>
+<ul>
+<li>剪片<img src="/2022/05/03/20220503%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC50%E5%A4%A9-IN/edit_film.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -1216,6 +1216,27 @@
       </tags>
   </entry>
   <entry>
+    <title>20220516美國行第63天-SanAntonio</title>
+    <url>/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/</url>
+    <content><![CDATA[<p>早上約8點多起床，然後就with Alex 開車前往附近的Snooze 吃早餐，我點的是綜合 Berry 法國吐司，非常好吃！謝謝Alex 請客，然後前往 Natural Bridge Caverns 看鐘乳石，非常壯觀的自然景觀，往下到 180 ft. 裡面有點悶而且有水聚集在底下，石頭的造型非常的酷！然後我們就繼續前往 Pearl Market 參觀，主要是可以來這邊放鬆走路，然後看看河，也順便買了一杯咖啡來喝哈哈天氣太熱還有跑到飯店大廳吹吹冷氣😂然後就到早上吃早餐的 Plaza 吃 Alex 以前打工的冰淇淋店BRINDLES，吃 Alex 推薦的口味真的好吃😋然後就回 Alex 家休息玩一下 NBA 2K，然後就到 Texas Road House 與 小阿姨跟 Aidan 匯合，小阿姨請我們吃牛排還有炸洋蔥，超級超級好吃😋真的太感謝了！吃完就到 The shops at la cantera 逛街，蠻多大品牌都在這，但是還是有點小貴！最後就逛逛回來小阿姨家！與小阿姨溝通接下的行程後，就與 Alex 玩個 2K 就收拾行李睡覺啦</p>
+<ul>
+<li>Snooze<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/snooze.jpg" class></li>
+<li>Natural Bridge Caverns<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/caverns.jpg" class></li>
+<li>馬刺隊主場<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/spur.jpg" class></li>
+<li>Pearl Market<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/pearl.jpg" class></li>
+<li>冰淇淋店 BRINDLES<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/brindles.jpg" class></li>
+<li>Texas Road House<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/road_house.jpg" class></li>
+<li>The shops at la cantera<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/la_cantera.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20220515美國行第62天-LA</title>
     <url>/2022/08/08/20220515%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC62%E5%A4%A9-LA/</url>
     <content><![CDATA[<p>由於下午 6 點的飛機往 Austin，早上起來行李收拾完先寄放在青旅然後就先前往道奇隊主場參觀，今天球場有比賽所以超多車往球場方向！球場超大的，非常壯觀！可惜的是原本想要去 team store 買一些紀念品，但是由於比賽日需要買票才能進去！再來就前往中央市場覓食，這個是 LA 最古老的市場，有吃的攤販也有文藝攤販，上網查詢必吃的美食後，最後選擇吃 taco，我選的是網路推薦的豬肉絲的口味，肉很好吃但是餅皮因為沒有煎過味道比較沒有那麼好！再來就到藍瓶咖啡點一杯招牌的 ice coffee Orleans with almond milk! 味道很特別蠻好喝的，然後就繼續前往華納迪士尼演藝廳，沒有買票後來只能在外圍參觀！原本想現場買票進去看演出，但是一張票270多，最後果斷放棄😆繼續前往中國城，剛好有辦市集但是要門票，就在外圍晃晃體驗中國城的氛圍，然後就到歐維拉市集逛，超好逛！比較像是墨西哥的市集，有很多飾品與商品都很有特色，還有人在舞台上唱歌，底下的觀眾們跟著起舞，真的非常有趣😊逛完後就走到小東京的日本市場買個鮭魚唐揚雞飯盒加上雪糕🍦邊吃雪糕邊前往青旅，在青旅吃完飯盒後就收拾行李往 Union Station 的 Flyaway 前往 LAX 機場✈️，路上超級曬的，整個很累又很熱！上了Bus後由於路上大塞車所以我們約5點到，還好最後順利登上機啦！由於飛機誤點，大約11點12到，然後我們馬上取行李然後前往租車的地方拿車然後加油就前往小阿姨家，大約2點到</p>
@@ -1238,17 +1259,15 @@
       </tags>
   </entry>
   <entry>
-    <title>20220516美國行第63天-SanAntonio</title>
-    <url>/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/</url>
-    <content><![CDATA[<p>早上約8點多起床，然後就with Alex 開車前往附近的Snooze 吃早餐，我點的是綜合 Berry 法國吐司，非常好吃！謝謝Alex 請客，然後前往 Natural Bridge Caverns 看鐘乳石，非常壯觀的自然景觀，往下到 180 ft. 裡面有點悶而且有水聚集在底下，石頭的造型非常的酷！然後我們就繼續前往 Pearl Market 參觀，主要是可以來這邊放鬆走路，然後看看河，也順便買了一杯咖啡來喝哈哈天氣太熱還有跑到飯店大廳吹吹冷氣😂然後就到早上吃早餐的 Plaza 吃 Alex 以前打工的冰淇淋店BRINDLES，吃 Alex 推薦的口味真的好吃😋然後就回 Alex 家休息玩一下 NBA 2K，然後就到 Texas Road House 與 小阿姨跟 Aidan 匯合，小阿姨請我們吃牛排還有炸洋蔥，超級超級好吃😋真的太感謝了！吃完就到 The shops at la cantera 逛街，蠻多大品牌都在這，但是還是有點小貴！最後就逛逛回來小阿姨家！與小阿姨溝通接下的行程後，就與 Alex 玩個 2K 就收拾行李睡覺啦</p>
+    <title>20220518美國行第65天-Dallas</title>
+    <url>/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/</url>
+    <content><![CDATA[<p>今天早上睡飽飽到9:30，然後吃個昨天超商買的漢堡就出發前往附近的 NB 店家逛街，然後再到 Grapevine Mills 逛街，很大！裡面有超多間店面，不管是奢侈品還是其他平價品牌都有，最後買了兩個的水晶項鍊跟Nike短袖跟棉褲，再來前往植物園參觀，好好地吸收芬多精並欣賞美麗的花園，真的享受🥳然後就到附近的 Trader Joe’s 買有名的脆迪酥還有飲料，並且到隔壁點個 Subway 當晚餐，就開車回飯店吃！吃飽後就前往看我們的第二場 MLB，這次是大谷翔平擔任天使隊先發投手，看到他連連標飆出99 MPH，甚至是 100，真的超級過癮，可惜最後他的投球無關勝敗！最後打到延長賽第10局，遊騎兵一個兩分全壘打結束比賽！超級精彩的一場</p>
 <ul>
-<li>Snooze<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/snooze.jpg" class></li>
-<li>Natural Bridge Caverns<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/caverns.jpg" class></li>
-<li>馬刺隊主場<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/spur.jpg" class></li>
-<li>Pearl Market<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/pearl.jpg" class></li>
-<li>冰淇淋店 BRINDLES<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/brindles.jpg" class></li>
-<li>Texas Road House<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/road_house.jpg" class></li>
-<li>The shops at la cantera<img src="/2022/08/08/20220516%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC63%E5%A4%A9-SanAntonio/la_cantera.jpg" class></li>
+<li>Grapevine Mills<img src="/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/mills.jpg" class></li>
+<li>ARBORETUM<img src="/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/garden1.jpg" class>
+<img src="/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/garden2.jpg" class></li>
+<li>MLB Rangers v.s. Angels<img src="/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/mlb1.jpg" class>
+<img src="/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/mlb2.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -1268,25 +1287,6 @@
 <li>Rodeo<img src="/2022/08/11/20220517%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC64%E5%A4%A9-Dallas/rodeo.jpg" class></li>
 <li>America Airline Center<img src="/2022/08/11/20220517%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC64%E5%A4%A9-Dallas/mavericks.jpg" class></li>
 <li>Globe Life Field<img src="/2022/08/11/20220517%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC64%E5%A4%A9-Dallas/rangers.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20220518美國行第65天-Dallas</title>
-    <url>/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/</url>
-    <content><![CDATA[<p>今天早上睡飽飽到9:30，然後吃個昨天超商買的漢堡就出發前往附近的 NB 店家逛街，然後再到 Grapevine Mills 逛街，很大！裡面有超多間店面，不管是奢侈品還是其他平價品牌都有，最後買了兩個的水晶項鍊跟Nike短袖跟棉褲，再來前往植物園參觀，好好地吸收芬多精並欣賞美麗的花園，真的享受🥳然後就到附近的 Trader Joe’s 買有名的脆迪酥還有飲料，並且到隔壁點個 Subway 當晚餐，就開車回飯店吃！吃飽後就前往看我們的第二場 MLB，這次是大谷翔平擔任天使隊先發投手，看到他連連標飆出99 MPH，甚至是 100，真的超級過癮，可惜最後他的投球無關勝敗！最後打到延長賽第10局，遊騎兵一個兩分全壘打結束比賽！超級精彩的一場</p>
-<ul>
-<li>Grapevine Mills<img src="/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/mills.jpg" class></li>
-<li>ARBORETUM<img src="/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/garden1.jpg" class>
-<img src="/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/garden2.jpg" class></li>
-<li>MLB Rangers v.s. Angels<img src="/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/mlb1.jpg" class>
-<img src="/2022/08/11/20220518%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC65%E5%A4%A9-Dallas/mlb2.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -1350,32 +1350,6 @@
 <li>UT Austin門口<img src="/2022/08/12/20220521%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC68%E5%A4%A9-Austin/ut1.jpg" class></li>
 <li>UT 畢業生準備入場<img src="/2022/08/12/20220521%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC68%E5%A4%A9-Austin/ut2.jpg" class></li>
 <li>校長發言<img src="/2022/08/12/20220521%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC68%E5%A4%A9-Austin/ut3.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20220522美國行第69天-SanAntonio</title>
-    <url>/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/</url>
-    <content><![CDATA[<p>今天早上約 8 點，小阿姨就來 Alex 租的地方來接我們，然後前往機場還車！再來搭小阿姨的車回小阿姨家！路上也去吃 San Antonio 有名的 the original donuts! 這是墨西哥人做的甜甜圈🍩點了甜甜圈跟 taco 非常好吃， taco 餅皮厚實且 甜甜圈很綿密😋然後回到家後收拾行李載 Aidan 去下午6 點的表演現場，就到 Almond 逛墨西哥與西班牙的歷史，然後到 Johnny Rockets 吃典型的美國餐點，裡面裝潢很有美國早期風格，漢堡與奶昔都很讚👍然後就到 River Walk 走走，最後在 Mall 裡面並且買了好吃的糖葫蘆蘋果與巧克力蘋果🍎！並且在星巴克坐坐，然後約5:30到 Aidan 的表演現場，現場表演的非常好，尤其是最後的合體演奏真的讚！結束後就到有名的墨西哥餐廳 EL BUCANERO 吃飯，每道菜都很好吃且下飯，還有一起喝杯小酒，真的很滿足又開心的一餐，最後回去洗漱整理行李並且確認好之後 DC 的住宿與 Russell 聯絡，然後與 Alex 一起玩個 2K 結束美好的一天</p>
-<ul>
-<li>UT Austin Tower<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/ut_tower.jpg" class></li>
-<li>The origin donuts<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/origin_donuts.jpg" class></li>
-<li>Tobin center<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/tobin_center.jpg" class>
-<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/tobin_center2.jpg" class></li>
-<li>Almond<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/almond.jpg" class></li>
-<li>River Walk<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/river.jpg" class>
-<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/river2.jpg" class>
-<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/river3.jpg" class></li>
-<li>糖葫蘆蘋果<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/apple.jpg" class></li>
-<li>Johnny Rockets<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/johnnyrocket.jpg" class></li>
-<li>EL BUCANERO<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/elbucanero.jpg" class>
-<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/elbucanero2.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -1474,15 +1448,57 @@
       </tags>
   </entry>
   <entry>
-    <title>20220527美國行第74天-NJ</title>
-    <url>/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/</url>
-    <content><![CDATA[<p>今天早上7點起床洗漱吃個早餐後就前往 New Jersey! Check out 後往 Union Station 搭 Amtrak 到 Metro Park station 從 9 到 12點，下車就前往買票的地方與 Russell 見面，見到 Russell 後真的非常感動，謝謝教授的協助讓我們有個美好的碩二下來美國交換！然後教授就帶我們到 Bell Core 參觀他以前上班的地方！然後就前往教授家啦💪 New Jersey 有著 Garden State 的 稱呼，教授家這邊超級綠意盎然非常美麗，然後就與師母見面，然後就準備個 Pizza 給我們當個午餐，然後教授就帶我們參觀他的花園還有地下室！超多教授的回憶與以前工作留下的紀錄，真的非常有趣😃然後就回客廳與大家吃個冰淇淋還有巧克力，超級讚的😍然後聊一下天就到教授很常去的義大利餐廳 MAGGIANO’S，這間店氣氛很好，很適合聚餐，我點了龍蝦義大利麵，非常好吃味道很夠，但是最後會有點膩！然後吃 New York CheeseCake 結束這回合，是一個非常棒的晚餐😁然後就回教授家聊個天與討論明天幾點出門等！最後洗漱個就休息啦 </p>
+    <title>20220522美國行第69天-SanAntonio</title>
+    <url>/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/</url>
+    <content><![CDATA[<p>今天早上約 8 點，小阿姨就來 Alex 租的地方來接我們，然後前往機場還車！再來搭小阿姨的車回小阿姨家！路上也去吃 San Antonio 有名的 the original donuts! 這是墨西哥人做的甜甜圈🍩點了甜甜圈跟 taco 非常好吃， taco 餅皮厚實且 甜甜圈很綿密😋然後回到家後收拾行李載 Aidan 去下午6 點的表演現場，就到 Alamo 逛墨西哥與西班牙的歷史，然後到 Johnny Rockets 吃典型的美國餐點，裡面裝潢很有美國早期風格，漢堡與奶昔都很讚👍然後就到 River Walk 走走，最後在 Mall 裡面並且買了好吃的糖葫蘆蘋果與巧克力蘋果🍎！並且在星巴克坐坐，然後約5:30到 Aidan 的表演現場，現場表演的非常好，尤其是最後的合體演奏真的讚！結束後就到有名的墨西哥餐廳 EL BUCANERO 吃飯，每道菜都很好吃且下飯，還有一起喝杯小酒，真的很滿足又開心的一餐，最後回去洗漱整理行李並且確認好之後 DC 的住宿與 Russell 聯絡，然後與 Alex 一起玩個 2K 結束美好的一天</p>
 <ul>
-<li>Bell Core<img src="/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/bellcore.jpg" class></li>
-<li>Russell Drive<img src="/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/russell_drive.jpg" class></li>
-<li>Russell’s Home<img src="/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/house.jpg" class>
-<img src="/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/house2.jpg" class></li>
-<li>MAGGIANO’S<img src="/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/dinner.jpg" class></li>
+<li>UT Austin Tower<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/ut_tower.jpg" class></li>
+<li>The origin donuts<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/origin_donuts.jpg" class></li>
+<li>Tobin center<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/tobin_center.jpg" class>
+<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/tobin_center2.jpg" class></li>
+<li>Alamo<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/almond.jpg" class></li>
+<li>River Walk<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/river.jpg" class>
+<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/river2.jpg" class>
+<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/river3.jpg" class></li>
+<li>糖葫蘆蘋果<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/apple.jpg" class></li>
+<li>Johnny Rockets<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/johnnyrocket.jpg" class></li>
+<li>EL BUCANERO<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/elbucanero.jpg" class>
+<img src="/2022/08/12/20220522%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC69%E5%A4%A9-SanAntonio/elbucanero2.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220529美國行第76天-NY</title>
+    <url>/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/</url>
+    <content><![CDATA[<p>今天早上吃完 Russell 的愛心早餐（優格、蛋糕、Smooth、水煮蛋、黑咖啡）然後搭 9:11 的車往 Penn station! 到了 Station 後我們就改搭 Subway 前往 Battery Park 買登上 Liberty island 的票，超多人在排隊的，等了好久終於約12:30上船啦，上船後有很好的角度觀賞紐約的天際線還有從海上看自由女神的全貌！慢慢接近自由女神的時候真的很激動，以前小時候一直想要有機會能親眼看到自由女神🗽，終於圓夢的感覺真的很棒😃登島後馬上找好的角度跟女神好好拍照還有參觀女神的博物館，再到女神周圍欣賞曼哈頓的景色然後去博物館買了個明信片就搭船回曼哈頓啦，然後往華爾街走，參觀這個全世界金融重鎮，看了紐約交易所、聯邦儲蓄銀行、還有必須拍照的銅牛！要正面與銅牛拍照還需要排很長的隊伍，但是難得來一定要拍的啦，到了我拍了一般的合照後就跳上銅牛合照，超級開心🥳逛完華爾街後就往布魯克林大橋，途中經過世貿中心也進去逛一下啦，接下來到了橋後也走一段路體驗電影場景🥰繼續往中國城晃晃接著去看紐約街頭品牌 Supreme! 可惜打烊了，很多間約5點多就打烊！接著，然後往 Soho 區走走，這邊有超多間潮牌還有藝術的店，可惜有點晚了，打算明天早點來晃晃😍接著就到 Chelsea market 的 lobster palace 吃龍蝦堡，很好吃超級新鮮，但是一個就要25美🤣接著往旁邊的碼頭晃晃，然後前往華盛頓拱門拍照，路上遇到 Starbucks Reserve 還有紐約 google 分部，然後到了華盛頓公園後悠閒走走拍照就搭 Subway 回 Penn station 拍一下麥迪遜廣場就進去買票然後搭 21:11 的 NJ transit to Russell 家💪</p>
+<ul>
+<li>自由女神<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/liberty.jpg" class>
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/liberty2.jpg" class>
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/liberty3.jpg" class>
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/liberty4.jpg" class></li>
+<li>華爾街<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/wall.jpg" class>
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/wall2.jpg" class>
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/wall3.jpg" class>
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/wall4.jpg" class></li>
+<li>世貿中心
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/trade2.jpg" class></li>
+<li>布魯克林大橋<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/brooklyn.jpg" class>
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/brooklyn2.jpg" class></li>
+<li>Soho<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/soho.jpg" class>
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/soho1.jpg" class></li>
+<li>街景
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/pier.jpg" class></li>
+<li>Chelsea market<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/chelsea.jpg" class>
+<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/chelsea2.jpg" class></li>
+<li>NY starbucks reserve<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/ny_starbucks.jpg" class></li>
+<li>華盛頓拱門<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/arch.jpg" class></li>
+<li>麥迪遜廣場<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/madison.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -1530,63 +1546,15 @@
       </tags>
   </entry>
   <entry>
-    <title>20220529美國行第76天-NY</title>
-    <url>/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/</url>
-    <content><![CDATA[<p>今天早上吃完 Russell 的愛心早餐（優格、蛋糕、Smooth、水煮蛋、黑咖啡）然後搭 9:11 的車往 Penn station! 到了 Station 後我們就改搭 Subway 前往 Battery Park 買登上 Liberty island 的票，超多人在排隊的，等了好久終於約12:30上船啦，上船後有很好的角度觀賞紐約的天際線還有從海上看自由女神的全貌！慢慢接近自由女神的時候真的很激動，以前小時候一直想要有機會能親眼看到自由女神🗽，終於圓夢的感覺真的很棒😃登島後馬上找好的角度跟女神好好拍照還有參觀女神的博物館，再到女神周圍欣賞曼哈頓的景色然後去博物館買了個明信片就搭船回曼哈頓啦，然後往華爾街走，參觀這個全世界金融重鎮，看了紐約交易所、聯邦儲蓄銀行、還有必須拍照的銅牛！要正面與銅牛拍照還需要排很長的隊伍，但是難得來一定要拍的啦，到了我拍了一般的合照後就跳上銅牛合照，超級開心🥳逛完華爾街後就往布魯克林大橋，途中經過世貿中心也進去逛一下啦，接下來到了橋後也走一段路體驗電影場景🥰繼續往中國城晃晃接著去看紐約街頭品牌 Supreme! 可惜打烊了，很多間約5點多就打烊！接著，然後往 Soho 區走走，這邊有超多間潮牌還有藝術的店，可惜有點晚了，打算明天早點來晃晃😍接著就到 Chelsea market 的 lobster palace 吃龍蝦堡，很好吃超級新鮮，但是一個就要25美🤣接著往旁邊的碼頭晃晃，然後前往華盛頓拱門拍照，路上遇到 Starbucks Reserve 還有紐約 google 分部，然後到了華盛頓公園後悠閒走走拍照就搭 Subway 回 Penn station 拍一下麥迪遜廣場就進去買票然後搭 21:11 的 NJ transit to Russell 家💪</p>
+    <title>20220527美國行第74天-NJ</title>
+    <url>/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/</url>
+    <content><![CDATA[<p>今天早上7點起床洗漱吃個早餐後就前往 New Jersey! Check out 後往 Union Station 搭 Amtrak 到 Metro Park station 從 9 到 12點，下車就前往買票的地方與 Russell 見面，見到 Russell 後真的非常感動，謝謝教授的協助讓我們有個美好的碩二下來美國交換！然後教授就帶我們到 Bell Core 參觀他以前上班的地方！然後就前往教授家啦💪 New Jersey 有著 Garden State 的 稱呼，教授家這邊超級綠意盎然非常美麗，然後就與師母見面，然後就準備個 Pizza 給我們當個午餐，然後教授就帶我們參觀他的花園還有地下室！超多教授的回憶與以前工作留下的紀錄，真的非常有趣😃然後就回客廳與大家吃個冰淇淋還有巧克力，超級讚的😍然後聊一下天就到教授很常去的義大利餐廳 MAGGIANO’S，這間店氣氛很好，很適合聚餐，我點了龍蝦義大利麵，非常好吃味道很夠，但是最後會有點膩！然後吃 New York CheeseCake 結束這回合，是一個非常棒的晚餐😁然後就回教授家聊個天與討論明天幾點出門等！最後洗漱個就休息啦 </p>
 <ul>
-<li>自由女神<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/liberty.jpg" class>
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/liberty2.jpg" class>
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/liberty3.jpg" class>
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/liberty4.jpg" class></li>
-<li>華爾街<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/wall.jpg" class>
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/wall2.jpg" class>
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/wall3.jpg" class>
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/wall4.jpg" class></li>
-<li>世貿中心
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/trade2.jpg" class></li>
-<li>布魯克林大橋<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/brooklyn.jpg" class>
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/brooklyn2.jpg" class></li>
-<li>Soho<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/soho.jpg" class>
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/soho1.jpg" class></li>
-<li>街景
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/pier.jpg" class></li>
-<li>Chelsea market<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/chelsea.jpg" class>
-<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/chelsea2.jpg" class></li>
-<li>NY starbucks reserve<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/ny_starbucks.jpg" class></li>
-<li>華盛頓拱門<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/arch.jpg" class></li>
-<li>麥迪遜廣場<img src="/2022/09/06/20220529%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC76%E5%A4%A9-NY/madison.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20220530美國行第77天-NY</title>
-    <url>/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/</url>
-    <content><![CDATA[<p>今天一樣吃了 Russell 的愛心早餐後就搭 9:11 的車前往 Penn Station! 到了後先往附近的景點走走，像是帝國大廈、中央車站、聯合國總部，然後搭 Subway 前往熨斗大廈還有參觀有趣的哈利波特商店跟公園，再來就繼續前往昨天沒逛到的 Supreme，原本想買帽子跟包包，可惜卡不知道為什麼無法刷過！然後就繼續往 Kith 逛，共有三層樓，為衣服、鞋子與女性區，最後買了有顆蘋果的 T shirt! 然後逛有名的 Nike Soho，也是很大間但是大多的鞋款都是比較普通跟小孩的！然後往附近的星巴克買杯咖啡消暑！再來就前往 Prince St. 吃有名的方形 Pizza! 這間店牆上都是一堆名人來吃過，我們到的時候剛好不用排很久，點完後馬上看到外面大排長龍！我吃經典的臘腸瑪格麗特，好吃但是有點鹹，再來就到附近的 Diptyque 香水逛逛，聞了最有名的 DO SAN，覺得還不錯，但是價錢查了下還是比網路上貴滿多的，所以打算之後有機會再買😂然後往 Stussy 逛逛，路上也經過精品的街，只能說用看的就好😆然後到了 Stussy 後，看到有紐約字樣的短t，然後就購入！但是店員的態度非常不好，愛理不理，非常討厭！然後就走路前往有名的 Murray’s bagel ，可惜吃飽了就在店裡參觀個，主要有名的是貝果夾鮭魚！再來就繼續往 High Line 走，這條路上有中了很多植物，而且旁邊圍繞很多建築，非常的美與愜意😁然後到終點後就去旁邊的 The Shops 這間 Mall 逛逛，一樣該有的精品牌都有👍然後就繼續往 New York Times Building，途中因為太渴就到藥局買瓶果汁消暑！然後繼續往洛德菲勒中心，逛逛後就往附近的 MLB店面逛逛，可以看到大谷翔平就擺在最前面！可以看到他的人氣超級高！然後就往Time Square 逛逛，可惜的是迪士尼的店關了！就短暫坐在階梯上享受著這裡的氛圍，真的超級感動🥰然後就逛逛幾件鞋店就搭 train 回 Lyons station，然後教授來載我們！回去後師母就做熱了之前一起去外面吃飯外帶的 pasta 跟熱湯與醃製小黃瓜！好吃😋然後吃水果、冰淇淋還有綠豆薏仁湯，超幸福☺️最後在愉快的聊天後就去睡覺啦</p>
-<ul>
-<li>帝國大廈</li>
-<li>中央車站<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/union_station.jpg" class></li>
-<li>Steet<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/street1.jpg" class>
-<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/street2.jpg" class>
-<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/street3.jpg" class></li>
-<li>熨斗大廈<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/fuller.jpg" class></li>
-<li>Soho<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/soho.jpg" class></li>
-<li>Supreme<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/supreme.jpg" class></li>
-<li>Kith<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/kith.jpg" class></li>
-<li>Prince St. Pizza<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/prince.jpg" class>
-<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/prince2.jpg" class></li>
-<li>High Line<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/line.jpg" class>
-<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/line2.jpg" class>
-<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/line3.jpg" class></li>
-<li>洛德菲勒中心<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/rock.jpg" class></li>
-<li>Time Squre<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/time.jpg" class>
-<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/time2.jpg" class></li>
-<li>師母準備的宵夜<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/snack.jpg" class></li>
+<li>Bell Core<img src="/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/bellcore.jpg" class></li>
+<li>Russell Drive<img src="/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/russell_drive.jpg" class></li>
+<li>Russell’s Home<img src="/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/house.jpg" class>
+<img src="/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/house2.jpg" class></li>
+<li>MAGGIANO’S<img src="/2022/09/06/20220527%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC74%E5%A4%A9-NJ/dinner.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -1635,6 +1603,38 @@
 <img src="/2022/09/06/20220601%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC79%E5%A4%A9-NY/rugers2.jpg" class></li>
 <li>Origin Thai<img src="/2022/09/06/20220601%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC79%E5%A4%A9-NY/thai.jpg" class>
 <img src="/2022/09/06/20220601%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC79%E5%A4%A9-NY/thai2.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220530美國行第77天-NY</title>
+    <url>/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/</url>
+    <content><![CDATA[<p>今天一樣吃了 Russell 的愛心早餐後就搭 9:11 的車前往 Penn Station! 到了後先往附近的景點走走，像是帝國大廈、中央車站、聯合國總部，然後搭 Subway 前往熨斗大廈還有參觀有趣的哈利波特商店跟公園，再來就繼續前往昨天沒逛到的 Supreme，原本想買帽子跟包包，可惜卡不知道為什麼無法刷過！然後就繼續往 Kith 逛，共有三層樓，為衣服、鞋子與女性區，最後買了有顆蘋果的 T shirt! 然後逛有名的 Nike Soho，也是很大間但是大多的鞋款都是比較普通跟小孩的！然後往附近的星巴克買杯咖啡消暑！再來就前往 Prince St. 吃有名的方形 Pizza! 這間店牆上都是一堆名人來吃過，我們到的時候剛好不用排很久，點完後馬上看到外面大排長龍！我吃經典的臘腸瑪格麗特，好吃但是有點鹹，再來就到附近的 Diptyque 香水逛逛，聞了最有名的 DO SAN，覺得還不錯，但是價錢查了下還是比網路上貴滿多的，所以打算之後有機會再買😂然後往 Stussy 逛逛，路上也經過精品的街，只能說用看的就好😆然後到了 Stussy 後，看到有紐約字樣的短t，然後就購入！但是店員的態度非常不好，愛理不理，非常討厭！然後就走路前往有名的 Murray’s bagel ，可惜吃飽了就在店裡參觀個，主要有名的是貝果夾鮭魚！再來就繼續往 High Line 走，這條路上有中了很多植物，而且旁邊圍繞很多建築，非常的美與愜意😁然後到終點後就去旁邊的 The Shops 這間 Mall 逛逛，一樣該有的精品牌都有👍然後就繼續往 New York Times Building，途中因為太渴就到藥局買瓶果汁消暑！然後繼續往洛德菲勒中心，逛逛後就往附近的 MLB店面逛逛，可以看到大谷翔平就擺在最前面！可以看到他的人氣超級高！然後就往Time Square 逛逛，可惜的是迪士尼的店關了！就短暫坐在階梯上享受著這裡的氛圍，真的超級感動🥰然後就逛逛幾件鞋店就搭 train 回 Lyons station，然後教授來載我們！回去後師母就做熱了之前一起去外面吃飯外帶的 pasta 跟熱湯與醃製小黃瓜！好吃😋然後吃水果、冰淇淋還有綠豆薏仁湯，超幸福☺️最後在愉快的聊天後就去睡覺啦</p>
+<ul>
+<li>帝國大廈<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/empire.jpg" class></li>
+<li>中央車站<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/union_station.jpg" class></li>
+<li>Steet<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/street1.jpg" class>
+<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/street2.jpg" class>
+<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/street3.jpg" class></li>
+<li>熨斗大廈<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/fuller.jpg" class></li>
+<li>Soho<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/soho.jpg" class></li>
+<li>Supreme<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/supreme.jpg" class></li>
+<li>Kith<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/kith.jpg" class></li>
+<li>Prince St. Pizza<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/prince.jpg" class>
+<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/prince2.jpg" class></li>
+<li>High Line<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/line.jpg" class>
+<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/line2.jpg" class>
+<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/line3.jpg" class></li>
+<li>洛德菲勒中心<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/rock.jpg" class></li>
+<li>Time Squre<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/time.jpg" class>
+<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/time2.jpg" class></li>
+<li>師母準備的宵夜<img src="/2022/09/06/20220530%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC77%E5%A4%A9-NY/snack.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -1771,22 +1771,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20220608美國行第86天-BOS</title>
-    <url>/2022/09/12/20220608%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC86%E5%A4%A9-BOS/</url>
-    <content><![CDATA[<p>今天早上6點起床搭小舅舅的車前往 BOS 機場，準備前往 SFO，由於還沒拿到報告我們就在祈禱能在到SFO時可以收到，在飛機上看了一部從 Netflix 下載的電影 RRR，講述印度與英國統治的故事，到了 SFO後收到檢驗報告，結果出來是陽性，最後只好在機場在驗一次，結果還是陽性，只好趕快趕班機且把行李拖下來，需要多待10天然後第11天才能搭飛機，最後就在 SFO 市區附近租了便宜的旅館，然後去附近的 Trader Joe’s 買個果汁和牛奶🥛青菜然後回去吃之前買的泡麵，洗漱後滑個手機就休息啦</p>
-<ul>
-<li>BOS 機場<img src="/2022/09/12/20220608%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC86%E5%A4%A9-BOS/bos_airport.jpg" class></li>
-<li>旅館<img src="/2022/09/12/20220608%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC86%E5%A4%A9-BOS/sfo_hotel.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20220609美國行第87天-SFO</title>
     <url>/2022/09/12/20220609%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC87%E5%A4%A9-SFO/</url>
     <content><![CDATA[<p>昨天10點多就睡了，睡到今天早上7點多就醒來！然後滑個手機然後休息個約10:30出門，走路到附近晃晃，途中經過 Westfield 百貨就走去看看！買了雙特價的 Ultra boost 跟 the body shop 的身體乳跟香水，還有 Dior savage 香水~哈哈認真 shopping 一波，然後就先回住的地方放東西，繼續在附近走走，途中也去一些潮店逛逛，Supreme 超多人，裡面賣很多與 TNF 聯名，蠻好逛的！然後到附近買杯星巴克繼續往中國城晃晃，然後往漁人碼頭吃 IN N OUT 然後 看黑人街頭藝人表演跳舞，非常厲害跟口條很好，逗得大家笑的很開心😂再來去 Pier 39 逛逛跟看海獅曬太陽，然後繼續往 Pier 1晃晃，最後走到第一次來 SFO 的 Trader Joe’s 買點水果就回去住宿地方！洗個澡滑個手機就結束今天</p>
@@ -1801,6 +1785,22 @@
 <img src="/2022/09/12/20220609%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC87%E5%A4%A9-SFO/fw3.jpg" class>
 <img src="/2022/09/12/20220609%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC87%E5%A4%A9-SFO/fw4.jpg" class>
 <img src="/2022/09/12/20220609%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC87%E5%A4%A9-SFO/fw5.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220608美國行第86天-BOS</title>
+    <url>/2022/09/12/20220608%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC86%E5%A4%A9-BOS/</url>
+    <content><![CDATA[<p>今天早上6點起床搭小舅舅的車前往 BOS 機場，準備前往 SFO，由於還沒拿到報告我們就在祈禱能在到SFO時可以收到，在飛機上看了一部從 Netflix 下載的電影 RRR，講述印度與英國統治的故事，到了 SFO後收到檢驗報告，結果出來是陽性，最後只好在機場在驗一次，結果還是陽性，只好趕快趕班機且把行李拖下來，需要多待10天然後第11天才能搭飛機，最後就在 SFO 市區附近租了便宜的旅館，然後去附近的 Trader Joe’s 買個果汁和牛奶🥛青菜然後回去吃之前買的泡麵，洗漱後滑個手機就休息啦</p>
+<ul>
+<li>BOS 機場<img src="/2022/09/12/20220608%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC86%E5%A4%A9-BOS/bos_airport.jpg" class></li>
+<li>旅館<img src="/2022/09/12/20220608%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC86%E5%A4%A9-BOS/sfo_hotel.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -1874,16 +1874,14 @@
       </tags>
   </entry>
   <entry>
-    <title>20220613美國行第91天-SFO</title>
-    <url>/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/</url>
-    <content><![CDATA[<p>今天起床後收拾好東西就前往前幾天去的金門大橋旁的 Crissy Field East Beach，由於天氣有點太冷，沙灘的遊客比較少且下水的不多，玩一玩水後就到漁人碼頭吃 IN N OUT 的漢堡跟薯條，由於身上都是沙子，就先回住的地方洗澡後前往巨人隊主場看球賽，由於今天 NBA Game 5，路上也順便去勇士隊主場看看，超多人在外圍一起加油！真的熱血🥰然後就到棒球場啦！這次是我們最近的一次，可以很清楚看到投手投球與球員打擊與防守，每次換場時，球員都會把練過的球丟到場外球迷，大致都是固定的點，所以很多球迷都會去那邊接球😂最後巨人對皇家獲勝啦！然後就走回住的地方吃個麵包配牛奶就去休息了</p>
+    <title>20220614美國行第92天-SFO</title>
+    <url>/2022/09/12/20220614%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC92%E5%A4%A9-SFO/</url>
+    <content><![CDATA[<p>今天起床到樓下做個熱狗堡配牛奶當早餐後就先到 Trader Joe’s 和 Target 買點吃的！回去洗個澡後就走卡斯楚街，這條是一個同志的街，路上可以看到很多彩虹旗🏳️‍🌈！然後就走到卡斯楚戲院跟拍網美常去的彩虹斑馬線！然後就往蘇特洛訊號塔走，超多上坡的！真的超級累😂但是到了目的地往下看可以看到舊金山的城市風貌☺️再來就去逛逛舊金山大學，蠻小的😂然後往 city center 買個星巴克！逛逛旁邊的 Trader Joe’s 就往 Westfield 買個 the bath and body work 的消毒液跟 the bath shop的身體乳！哈哈補個貨😂送禮也是很不錯的👍然後就走回住宿地吃個晚餐就休息啦</p>
 <ul>
-<li>前往 Beach<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/gbeach.jpg" class>
-<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/gbeach2.jpg" class></li>
-<li>NBA Game5 勇士隊主場<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/nbag5.jpg" class></li>
-<li>巨人隊主場<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/orange.jpg" class>
-<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/orange2.jpg" class>
-<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/orange3.jpg" class></li>
+<li>卡斯楚街<img src="/2022/09/12/20220614%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC92%E5%A4%A9-SFO/cas.jpg" class></li>
+<li>蘇特洛訊號塔<img src="/2022/09/12/20220614%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC92%E5%A4%A9-SFO/tower.jpg" class>
+<img src="/2022/09/12/20220614%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC92%E5%A4%A9-SFO/tower2.jpg" class></li>
+<li>舊金山大學<img src="/2022/09/12/20220614%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC92%E5%A4%A9-SFO/sanuniv.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -1894,14 +1892,16 @@
       </tags>
   </entry>
   <entry>
-    <title>20220614美國行第92天-SFO</title>
-    <url>/2022/09/12/20220614%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC92%E5%A4%A9-SFO/</url>
-    <content><![CDATA[<p>今天起床到樓下做個熱狗堡配牛奶當早餐後就先到 Trader Joe’s 和 Target 買點吃的！回去洗個澡後就走卡斯楚街，這條是一個同志的街，路上可以看到很多彩虹旗🏳️‍🌈！然後就走到卡斯楚戲院跟拍網美常去的彩虹斑馬線！然後就往蘇特洛訊號塔走，超多上坡的！真的超級累😂但是到了目的地往下看可以看到舊金山的城市風貌☺️再來就去逛逛舊金山大學，蠻小的😂然後往 city center 買個星巴克！逛逛旁邊的 Trader Joe’s 就往 Westfield 買個 the bath and body work 的消毒液跟 the bath shop的身體乳！哈哈補個貨😂送禮也是很不錯的👍然後就走回住宿地吃個晚餐就休息啦</p>
+    <title>20220613美國行第91天-SFO</title>
+    <url>/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/</url>
+    <content><![CDATA[<p>今天起床後收拾好東西就前往前幾天去的金門大橋旁的 Crissy Field East Beach，由於天氣有點太冷，沙灘的遊客比較少且下水的不多，玩一玩水後就到漁人碼頭吃 IN N OUT 的漢堡跟薯條，由於身上都是沙子，就先回住的地方洗澡後前往巨人隊主場看球賽，由於今天 NBA Game 5，路上也順便去勇士隊主場看看，超多人在外圍一起加油！真的熱血🥰然後就到棒球場啦！這次是我們最近的一次，可以很清楚看到投手投球與球員打擊與防守，每次換場時，球員都會把練過的球丟到場外球迷，大致都是固定的點，所以很多球迷都會去那邊接球😂最後巨人對皇家獲勝啦！然後就走回住的地方吃個麵包配牛奶就去休息了</p>
 <ul>
-<li>卡斯楚街<img src="/2022/09/12/20220614%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC92%E5%A4%A9-SFO/cas.jpg" class></li>
-<li>蘇特洛訊號塔<img src="/2022/09/12/20220614%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC92%E5%A4%A9-SFO/tower.jpg" class>
-<img src="/2022/09/12/20220614%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC92%E5%A4%A9-SFO/tower2.jpg" class></li>
-<li>舊金山大學<img src="/2022/09/12/20220614%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC92%E5%A4%A9-SFO/sanuniv.jpg" class></li>
+<li>前往 Beach<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/gbeach.jpg" class>
+<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/gbeach2.jpg" class></li>
+<li>NBA Game5 勇士隊主場<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/nbag5.jpg" class></li>
+<li>巨人隊主場<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/orange.jpg" class>
+<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/orange2.jpg" class>
+<img src="/2022/09/12/20220613%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC91%E5%A4%A9-SFO/orange3.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -1944,22 +1944,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20220617美國行第95天-SFO</title>
-    <url>/2022/09/12/20220617%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC95%E5%A4%A9-SFO/</url>
-    <content><![CDATA[<p>今天早起準備去3間藥局測 PCR! 先到最近的 CVS測，是要透過車道驗！好加在這間不強制要求要開車！然後再附近的 IN N OUT 吃個漢堡就走往下一間 Walgreen，一開始不小心搞錯店家後來就搭車到第二間 Walgreen! Walgreen麻煩的是車道 testing 要開車才行，不能走路！還好遇到一堆好心的阿姨跟先生，順利測完❤️然後在搭車到 Oakland 的第三間 Walgreen測試！這次找人就比較辛苦，前面找了好幾個都不願意，好險最後遇到一個大陸阿姨載我們到車道做測試，然後就搭車回去休息啦</p>
-<ul>
-<li>Sanfransisco 街景<img src="/2022/09/12/20220617%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC95%E5%A4%A9-SFO/sfostreet.jpg" class></li>
-<li>Oakland 街景<img src="/2022/09/12/20220617%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC95%E5%A4%A9-SFO/oakland.jpg" class></li>
-</ul>
-]]></content>
-      <categories>
-        <category>Exchange</category>
-      </categories>
-      <tags>
-        <tag>America</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20220618美國行第96天-SFO</title>
     <url>/2022/09/12/20220618%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC96%E5%A4%A9-SFO/</url>
     <content><![CDATA[<p>今天早起約9點出門去金門公園，超級愜意很多人在這邊跑步！在公園裡然後經過科學館、美術館還有日本茶園！再來就前往看荷蘭風車，配上周圍的花花草草真的超美🥰再來到旁邊的 Ocean Beach 晃晃就往藝術宮！中間經過 Lyon street step! 可以俯瞰城市，超級美🥰藝術宮整個建築非常歐式且壯觀，非常多對新人來這邊拍婚紗!很適合來這邊愜意地坐著💪然後就往 Ghirardelli square！原本想在專賣店買巧克力！可惜都大排長龍，然後 IN N OUT 也是，後來就往聯合廣場走💪先去 lulu lemon 買之前心心念念的外套，最後還是想說最後一天逛就買了🥰然後到 target 跟 Trader Joe’s 買吃的跟伴手禮就回家吃晚餐跟收拾行李啦</p>
@@ -1972,6 +1956,22 @@
 <li>藝術宮<img src="/2022/09/12/20220618%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC96%E5%A4%A9-SFO/art.jpg" class></li>
 <li>Ghirardelli square<img src="/2022/09/12/20220618%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC96%E5%A4%A9-SFO/ghir.jpg" class></li>
 <li>街景<img src="/2022/09/12/20220618%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC96%E5%A4%A9-SFO/road.jpg" class></li>
+</ul>
+]]></content>
+      <categories>
+        <category>Exchange</category>
+      </categories>
+      <tags>
+        <tag>America</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220617美國行第95天-SFO</title>
+    <url>/2022/09/12/20220617%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC95%E5%A4%A9-SFO/</url>
+    <content><![CDATA[<p>今天早起準備去3間藥局測 PCR! 先到最近的 CVS測，是要透過車道驗！好加在這間不強制要求要開車！然後再附近的 IN N OUT 吃個漢堡就走往下一間 Walgreen，一開始不小心搞錯店家後來就搭車到第二間 Walgreen! Walgreen麻煩的是車道 testing 要開車才行，不能走路！還好遇到一堆好心的阿姨跟先生，順利測完❤️然後在搭車到 Oakland 的第三間 Walgreen測試！這次找人就比較辛苦，前面找了好幾個都不願意，好險最後遇到一個大陸阿姨載我們到車道做測試，然後就搭車回去休息啦</p>
+<ul>
+<li>Sanfransisco 街景<img src="/2022/09/12/20220617%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC95%E5%A4%A9-SFO/sfostreet.jpg" class></li>
+<li>Oakland 街景<img src="/2022/09/12/20220617%E7%BE%8E%E5%9C%8B%E8%A1%8C%E7%AC%AC95%E5%A4%A9-SFO/oakland.jpg" class></li>
 </ul>
 ]]></content>
       <categories>
@@ -2240,43 +2240,6 @@
       </tags>
   </entry>
   <entry>
-    <title>book_致富心態</title>
-    <url>/2021/08/30/book-%E8%87%B4%E5%AF%8C%E5%BF%83%E6%85%8B/</url>
-    <content><![CDATA[<h1 id="致富心態"><a href="#致富心態" class="headerlink" title="致富心態"></a>致富心態</h1><h2 id="這本書是開始寫閱讀心得的第一本書-用來記錄感想與訓練文筆"><a href="#這本書是開始寫閱讀心得的第一本書-用來記錄感想與訓練文筆" class="headerlink" title="這本書是開始寫閱讀心得的第一本書, 用來記錄感想與訓練文筆"></a>這本書是開始寫閱讀心得的第一本書, 用來記錄感想與訓練文筆</h2><h2 id="心得"><a href="#心得" class="headerlink" title="心得:"></a>心得:</h2><ul>
-<li>這篇主要講解人類遇到不同狀況, 會有什麼潛在反應或是不同態度的人越到同一件事情時的做法與其對應結果, 下列我會講述各章節所想表達的東西, 在最後會有一個總結</li>
-</ul>
-<h3 id="Ch1-沒有人是真正的瘋子"><a href="#Ch1-沒有人是真正的瘋子" class="headerlink" title="Ch1: 沒有人是真正的瘋子"></a>Ch1: 沒有人是真正的瘋子</h3><ul>
-<li>有些人對於自己理財觀念已經是很不錯了, 但從世界上其他人來看其實可能就微不足道, 例如你覺得投入的資金得到對應的獲利已經很讓你足以自滿, 但一定有一方人會以比你更少或是相等投資金得到更高的報酬</li>
-<li>有些時候我們會對某些人瘋狂的投資策略抱持相當大的疑惑,  而這些人有可能比我們看得更遠或是洞悉到適當的機會, 或不同時代的投資人有著不同投資策略, 或許可能在當下獲利不理想, 單將該策略放在現今可能就會有著巨大的獲利</li>
-<li><strong>總結</strong>: 不低估別人或是過度自傲, 對每件事的觀察都要抱著多方思考方能更全面洞悉整體</li>
-</ul>
-<h3 id="Ch2-運氣和風險"><a href="#Ch2-運氣和風險" class="headerlink" title="Ch2: 運氣和風險"></a>Ch2: 運氣和風險</h3><ul>
-<li>運氣跟風險為兄弟,  你相信運氣可能帶給你一夕致富, 但風險也可能讓你擁有的一夕崩盤</li>
-<li>有時候你做得很好的策略, 估計大機率會成功, 但可能會因為運氣不好與當下環境, 造成失敗</li>
-<li>創業是賺大錢的一種管道, 但只有結合運氣與實力的新創才能嶄露頭角, 很多失敗的新創都非常努力</li>
-<li><strong>總結</strong> : 做事要考慮風險, 保留一定的安全空間, 不會讓你失敗後就完全失去以前所擁有的一切</li>
-</ul>
-<h3 id="Ch3-貪得無厭"><a href="#Ch3-貪得無厭" class="headerlink" title="Ch3: 貪得無厭"></a>Ch3: 貪得無厭</h3><ul>
-<li>不要為了自己不在意的東西賭上你的一切</li>
-<li>珍惜你所擁有的, 不要與過度與別人比較, 做出錯誤判斷</li>
-<li>滿足感可以讓你對能夠保有你目前所擁有的</li>
-<li><strong>總結</strong>: 珍惜一切, 不要因為不滿足, 做出錯誤判斷賠掉所有</li>
-</ul>
-<h3 id="Ch4-讓人混淆的複利"><a href="#Ch4-讓人混淆的複利" class="headerlink" title="Ch4: 讓人混淆的複利"></a>Ch4: 讓人混淆的複利</h3><ul>
-<li>巴菲特淨資產高達845億美元, 其中八百四十二億是在50歲生日後才得到, 八百一十五億是在65歲後得到</li>
-<li>固定且持續有效的投資能夠帶給你想不到的收穫</li>
-<li>賺不到一次性的最高報酬投資, 但可以持續賺穩定的報酬, 但切記不能一竅不通的無腦投資</li>
-<li>總結: 連續且有效的投資可給你可觀的報酬, 但是一塵不變的無效投資反而使賺的錢不增反減, 無法享受複利帶來的美好</li>
-</ul>
-]]></content>
-      <categories>
-        <category>Summary</category>
-      </categories>
-      <tags>
-        <tag>Reading_experience</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>研發替代役心得</title>
     <url>/2022/12/25/%E7%A0%94%E7%99%BC%E6%9B%BF%E4%BB%A3%E5%BD%B9%E5%BF%83%E5%BE%97/</url>
     <content><![CDATA[<p>我是參加 240T 的研109梯的役男，新訓時間為(12/06~12/20)，下面紀錄這次新訓的心得</p>
@@ -2361,6 +2324,43 @@
       </categories>
       <tags>
         <tag>RD_alternatives</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>book_致富心態</title>
+    <url>/2021/08/30/book-%E8%87%B4%E5%AF%8C%E5%BF%83%E6%85%8B/</url>
+    <content><![CDATA[<h1 id="致富心態"><a href="#致富心態" class="headerlink" title="致富心態"></a>致富心態</h1><h2 id="這本書是開始寫閱讀心得的第一本書-用來記錄感想與訓練文筆"><a href="#這本書是開始寫閱讀心得的第一本書-用來記錄感想與訓練文筆" class="headerlink" title="這本書是開始寫閱讀心得的第一本書, 用來記錄感想與訓練文筆"></a>這本書是開始寫閱讀心得的第一本書, 用來記錄感想與訓練文筆</h2><h2 id="心得"><a href="#心得" class="headerlink" title="心得:"></a>心得:</h2><ul>
+<li>這篇主要講解人類遇到不同狀況, 會有什麼潛在反應或是不同態度的人越到同一件事情時的做法與其對應結果, 下列我會講述各章節所想表達的東西, 在最後會有一個總結</li>
+</ul>
+<h3 id="Ch1-沒有人是真正的瘋子"><a href="#Ch1-沒有人是真正的瘋子" class="headerlink" title="Ch1: 沒有人是真正的瘋子"></a>Ch1: 沒有人是真正的瘋子</h3><ul>
+<li>有些人對於自己理財觀念已經是很不錯了, 但從世界上其他人來看其實可能就微不足道, 例如你覺得投入的資金得到對應的獲利已經很讓你足以自滿, 但一定有一方人會以比你更少或是相等投資金得到更高的報酬</li>
+<li>有些時候我們會對某些人瘋狂的投資策略抱持相當大的疑惑,  而這些人有可能比我們看得更遠或是洞悉到適當的機會, 或不同時代的投資人有著不同投資策略, 或許可能在當下獲利不理想, 單將該策略放在現今可能就會有著巨大的獲利</li>
+<li><strong>總結</strong>: 不低估別人或是過度自傲, 對每件事的觀察都要抱著多方思考方能更全面洞悉整體</li>
+</ul>
+<h3 id="Ch2-運氣和風險"><a href="#Ch2-運氣和風險" class="headerlink" title="Ch2: 運氣和風險"></a>Ch2: 運氣和風險</h3><ul>
+<li>運氣跟風險為兄弟,  你相信運氣可能帶給你一夕致富, 但風險也可能讓你擁有的一夕崩盤</li>
+<li>有時候你做得很好的策略, 估計大機率會成功, 但可能會因為運氣不好與當下環境, 造成失敗</li>
+<li>創業是賺大錢的一種管道, 但只有結合運氣與實力的新創才能嶄露頭角, 很多失敗的新創都非常努力</li>
+<li><strong>總結</strong> : 做事要考慮風險, 保留一定的安全空間, 不會讓你失敗後就完全失去以前所擁有的一切</li>
+</ul>
+<h3 id="Ch3-貪得無厭"><a href="#Ch3-貪得無厭" class="headerlink" title="Ch3: 貪得無厭"></a>Ch3: 貪得無厭</h3><ul>
+<li>不要為了自己不在意的東西賭上你的一切</li>
+<li>珍惜你所擁有的, 不要與過度與別人比較, 做出錯誤判斷</li>
+<li>滿足感可以讓你對能夠保有你目前所擁有的</li>
+<li><strong>總結</strong>: 珍惜一切, 不要因為不滿足, 做出錯誤判斷賠掉所有</li>
+</ul>
+<h3 id="Ch4-讓人混淆的複利"><a href="#Ch4-讓人混淆的複利" class="headerlink" title="Ch4: 讓人混淆的複利"></a>Ch4: 讓人混淆的複利</h3><ul>
+<li>巴菲特淨資產高達845億美元, 其中八百四十二億是在50歲生日後才得到, 八百一十五億是在65歲後得到</li>
+<li>固定且持續有效的投資能夠帶給你想不到的收穫</li>
+<li>賺不到一次性的最高報酬投資, 但可以持續賺穩定的報酬, 但切記不能一竅不通的無腦投資</li>
+<li>總結: 連續且有效的投資可給你可觀的報酬, 但是一塵不變的無效投資反而使賺的錢不增反減, 無法享受複利帶來的美好</li>
+</ul>
+]]></content>
+      <categories>
+        <category>Summary</category>
+      </categories>
+      <tags>
+        <tag>Reading_experience</tag>
       </tags>
   </entry>
 </search>
